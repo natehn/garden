@@ -1,3 +1,39 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+.blaze {
+  display: block;
+  margin: 2rem auto;
+}
+
+.blaze-dark {
+  display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .blaze-light {
+    display: none;
+  }
+
+  .blaze-dark {
+    display: block;
+  }
+}
+
+html[saved-theme="light"] .blaze-dark {
+  display: none;
+}
+
+html[saved-theme="dark"] .blaze-light {
+  display: none;
+}
+
+.blaze {
+  display: block;
+  margin: 2rem auto;
+}
+
+footer {
+  text-align: center;
+}
