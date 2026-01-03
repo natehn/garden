@@ -9,12 +9,14 @@ return (
       {children}
       <img
   src="/blaze-light.png"
-  alt="Three blaze marks denoting the end of this path."
+  alt="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
+  title="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
   className="blaze blaze-light"
 />
 <img
   src="/blaze-dark.png"
-  alt="Three blaze marks denoting the end of this path."
+  alt="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
+  title="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
   className="blaze blaze-dark"
 />
     </div>
