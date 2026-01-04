@@ -11,7 +11,8 @@ The most obvious example is fighting: boxing, martial arts, fencing, wrestling, 
 
 The less obvious category is [racquet](https://xkcd.com/2852/) sports: tennis, racquetball, squash, badminton - and, yes, [pickleball](https://clubleftisttennis.substack.com/p/against-pickleball-030). I also include racquet-less games like tetherball and American handball.
 
-> Tennis is boxing. Every tennis player, sooner or later, compares himself to a boxer because tennis is non-contact pugilism. It’s violent, mano a mano, and the choice is brutally simple as it is in any ring. Kill or be killed. Beat or take your beat-down. {{< rawhtml >}}<br>&nbsp;&ndash; {{< /rawhtml >}} *Andre Agassi*
+> Tennis is boxing. Every tennis player, sooner or later, compares himself to a boxer because tennis is non-contact pugilism. It’s violent, mano a mano, and the choice is brutally simple as it is in any ring. Kill or be killed. Beat or take your beat-down.   
+> *Andre Agassi*
 
 **I'm looking and still have yet to find anything else that comes close.**
 
