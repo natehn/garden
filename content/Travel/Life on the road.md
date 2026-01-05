@@ -16,7 +16,7 @@ Obviously, all of these - except, perhaps, public restrooms - are readily availa
 
 ### Water
 
-Keeping a steady supply of water is essential for long-term travel. Bring two water bottles (my second is a folding Platypus I use as a backup). Fill up, top up, whenever you can. Especially if you are trying the #vanlife thing. And make sure to wash the water bottle every so often.
+Keeping a steady supply of water is essential for long-term travel. Bring two water bottles (my second is a folding Platypus I use as a backup). Fill up, top up, whenever you can. Especially if you are trying the hashtag-vanlife thing. And make sure to wash the water bottle every so often.
 
 ### Bathrooms
 
