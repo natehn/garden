@@ -3,7 +3,7 @@ publish: "true"
 modified: 2024-12-30
 comments: "true"
 ---
-Let's say you run a 501(c)(3) public charity (as I have a couple times). You change its address. What do you need to do to update it? (*NOT* legal advice)
+Let's say you run a 501(c)(3) public charity (as I have a couple times). You want to change its address. Where do you need to update it? (*NOT* legal advice)
 
 - the state you incorporated in
 	- may require a board resolution in some places?
