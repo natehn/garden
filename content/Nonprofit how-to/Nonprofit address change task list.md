@@ -14,13 +14,15 @@ Let's say you run a 501(c)(3) public charity (as I have a couple times). You wan
 - your bookkeepers/accountants/auditors
 - banks
 - payment processors
-- insurance broker, who should tell the insurance compan(ies)
+- [[Insurance for fiscal sponsors|insurance]] broker, who should tell the insurance compan(ies)
 - payroll/PEO/EOR companies
-- software: accounting
-- online accounts: TechSoup
+- accounting software
+- TechSoup and other procurement systems
 - people that pay you that have annoying remittance systems (universities, large foundations, large corporations)
 
 And if you want to be really careful:
 - send an email to everyone you have a contract with - or at least institutions with whom you have major contracts
 
 (My understanding is that the list is quite similar for name changes, though perhaps more involved.)
+
+*This is [[not legal advice]]*.
