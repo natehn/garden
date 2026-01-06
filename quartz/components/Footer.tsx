@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          © {year} Nathan Hewitt (made with <a href="https://quartz.jzhao.xyz/">Quartz</a>)
+          <a href="https://hew.tt">⌂</a> | © {year} Nathan Hewitt (made with <a href="https://quartz.jzhao.xyz">Quartz</a>)
         </p>
       </footer>
     )

@@ -8,13 +8,13 @@ return (
     <div id="quartz-body">
       {children}
       <img
-  src="/blaze-light.png"
+  src="/files/blaze-light.png"
   alt="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
   title="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
   className="blaze blaze-light"
 />
 <img
-  src="/blaze-dark.png"
+  src="/files/blaze-dark.png"
   alt="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
   title="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
   className="blaze blaze-dark"

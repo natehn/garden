@@ -25,4 +25,4 @@ And if you want to be really careful:
 
 (My understanding is that the list is quite similar for name changes, though perhaps more involved.)
 
-*This is [[not legal advice]]*.
+*This is [[Not legal advice]]*.

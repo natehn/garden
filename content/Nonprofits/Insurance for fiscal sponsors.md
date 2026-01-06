@@ -28,4 +28,4 @@ Processes you might want to implement:
 Additional insureds: 
 - It is good practice to ask independent contractors and Model C projects to add you as an additional insured on any policies they take out. You can also consider requiring them to have insurance in the first place
 
-*This is [[not legal advice]]*.
+*This is [[Not legal advice]]*.
