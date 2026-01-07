@@ -56,3 +56,33 @@ $desktopGrid: (
       "grid-sidebar-left grid-center grid-sidebar-right"\
       "grid-sidebar-left grid-footer grid-sidebar-right"',
 );
+
+:root {
+  --bg-top: --light;
+  --bg-bottom: --light;
+}
+
+// adding theme variants
+//    --light = background (including for search bar)
+//    --lightgray = search outline and menu accent
+//    --gray = search preset text, some graph stuff - fun accent color
+//    --darkgray = text and icon color
+//    --dark = secondary text color - page titles, bold text
+//    --secondary = page links and website title
+//    --tertiary = currently selected page, and cursor highlighting, and link hover color
+//    --highlight = ??? the background for internal pages
+
+// change dark to light for light variants!
+
+:root[saved-theme="dark"][theme-variant="notebook"] {
+  --light: #513e30;
+  --lightgray: #965253;
+  --gray: #969b81;
+  --darkgray: #dbdbdb;
+  --dark: #dbdbdb;
+  --secondary: #dbdbdb;
+  --tertiary: #C9A6B9;
+  --highlight: rgba(34,57,23,0.50);
+  --bg-top: #B65454;
+  --bg-bottom: rgba(34,57,23,0.75);
+}

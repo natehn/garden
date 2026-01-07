@@ -1,6 +1,6 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// adding blaze
 
 .blaze {
   display: block;
@@ -36,4 +36,25 @@ html[saved-theme="dark"] .blaze-light {
 
 footer {
   text-align: center;
+}
+
+// adding a gradient background
+
+html {
+  min-height: 100vh;
+}
+
+html {
+  min-height: 100vh;
+}
+
+body {
+  min-height: 100vh;
+  background-color: transparent !important;
+  background-image:
+    radial-gradient(ellipse at top, var(--bg-top), transparent),
+    radial-gradient(ellipse at bottom, var(--bg-bottom), transparent);
+  background-attachment: fixed;
+  background-blend-mode: darken;
+  background-size: 100% 100%;
 }

@@ -48,29 +48,32 @@
 
 // adding theme variants
 
-/* 1. Base styles for the new icon - MATCHES EXISTING ICON POSITIONING */
-.notebookIcon {
+/* 1. Base styles for the new icon (matches existing icons) */
+.rosePineIcon {
   display: none; /* Hidden by default */
   pointer-events: none;
-  position: absolute;
-  width: 20px;
-  height: 20px;
-  top: calc(50% - 10px); /* Matches your &svg rule exactly */
-  left: 0;               /* Aligns it to the left edge of the 20px button */
-  
-  stroke: var(--darkgray);
-  fill: none !important; 
+  position: absolute; /* Stack on top of others */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+//  width: 24px;
+//  height: 24px;
+  fill: var(--dark); /* Use theme color */
+  stroke: var(--dark);
+  fill: none !important; /* Forces the inside of the icon to be transparent */
 }
 
 /* 2. Logic: When Rose Pine is active... */
-:root[theme-variant="notebook"] .darkmode {
+:root[theme-variant="rose-pine"] .darkmode {
   /* Hide the standard icons */
-  & > .dayIcon, & > .nightIcon {
+  .dayIcon, .nightIcon {
     display: none !important;
   }
   
-  /* Show the flower using the same display type as the original icons */
-  & > .notebookIcon {
-    display: inline !important; 
+  /* Show the flower */
+  .rosePineIcon {
+    display: block !important;
+    transform: translate(-50%, -50%) rotate(360deg); /* Optional: add rotation */
+    transition: transform 0.5s ease;
   }
 }
