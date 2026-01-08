@@ -8,9 +8,20 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
 
   return (
     <article class="popover-hint">
-      <h1>404</h1>
-      <p>{i18n(cfg.locale).pages.error.notFound}</p>
-      <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+      <h1><i>Ceci n'est pas une page.</i></h1>
+      <div style={{ display: "flex", gap: "2rem", alignItems: "center", flexWrap: "wrap" }}>
+        <img 
+          src="/static/tomeishi.png" 
+          title="A fist-sized stone sits on the path, tied over crosswise with black-dyed hemp-palm rope. It is called a tomeishi, or barrier stone, and warns against taking the wrong path." 
+          alt="A fist-sized stone sits on the path, tied over crosswise with black-dyed hemp-palm rope. It is called a tomeishi, or barrier stone, and warns against taking the wrong path."
+          style={{ maxWidth: "200px", flexShrink: 0 }}
+        />
+        <div style={{ flex: 1 }}>
+          <p>Whoops! There's an error: <code>HTTP 404: Page Not Found</code>. Either this page is private or doesn't exist.</p>
+          <p> If you know the page exists, use the search bar on the home page to find what you are looking for! </p>
+          <p><a href={baseDir}>Click here to return home.</a></p>
+        </div>
+      </div>
     </article>
   )
 }

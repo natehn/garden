@@ -3,6 +3,7 @@ publish: "true"
 modified: 2023-11-27
 comments: "true"
 ---
+When [[Trip planning]], one of my favorite things to do is stringing together a variety of modes of travel.
 ### Airplanes
 
 I always get to the airport with plenty of time to set myself up and use the airport internet for a little while. Be ready to take off your shoes and take out electronic devices. Bring snacks to avoid airport prices. Fill up your water bottle after going through security. But you already know the drill.
@@ -13,7 +14,7 @@ In my romanticized version of digital nomadism, the train Internet is amazing, a
 
 My experience with train travel has varied drastically, and I don't think I've done enough of it to draw broad conclusions. I had a good experience on business class trip once, but that might have been a fluke. In general, passengers have been quiet, and I've made some friends in the diner car, but they can also be the thing that keeps you up if they get drunk and won't shut up XD
 
-Sleeping on trains can be a challenge, especially if you are cheap and go for a coach seat. I'm a little too tall for them, so it's a struggle to get comfortable. In addition, it tends to be chilly in the night, so make sure to have a blanket, or at least a couple jackets to cover yourself with. Earplugs or isolating earphones are also essential, since the train engine will be blaring its horn constantly throughout the night.
+Sleeping on trains can be a challenge, especially if you are cheap and go for a coach seat. I'm a little too tall for them, so it's a struggle to get comfortable. In addition, it tends to be chilly in the night, so make sure to have a blanket, or at least a couple jackets to cover yourself with. Earplugs or isolating earphones are also essential, since the train engine will be blaring its horn constantly throughout the night. And usually your sleep schedule gets messed up, so having some late night entertainment saved on your laptop (see [[Entertaining oneself]]).
 
 Keep in mind that long-distance trains often get held up by freight trains, since the shipping companies are the ones that actually own the railroad. Never plan anything for the day you are scheduled to arrive. In the US, use [Amtrak's train tracker](https://www.amtrak.com/track-your-train.html) to get info on departure and arrival times, and save yourself some stress.
 

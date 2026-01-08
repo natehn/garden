@@ -9,5 +9,6 @@ This is where I plant ideas. It's a little bit like a commonplace book, *biji*, 
 
 Wondering where to start? Here are my current favorites:
 
+- [[Dithering like riso]]
 - [[Fun phone bots you can call]]
 - [[One-on-one sports]]

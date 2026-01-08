@@ -7,6 +7,4 @@ On my five-month US trip in 2021, I ended up deciding not to take my Olympus cam
 
 I also enjoyed sending postcards to friends partway through the trip.
 
-### Mementos
-
 Although I wasn't buying souvenirs - pack space comes at a premium- sometimes stuff gathers. When it was scannable (like receipts), I use the Dropbox app to scan it, or I took a photo of it. And if it was truly special, I made space for it.
