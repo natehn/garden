@@ -162,7 +162,7 @@ And although I do not presently place much hope in collective political *art*, s
 
 [^we]: I have replaced the word "art" with the word "we."
 [^action]: This used to read "art (action)".
- [^land]: I now have a deeper understanding of the fact that this is [not "our" land](/about/histories). And land is not something to be ignored: look at "artwashing" and "creative placemaking" - those owning **land** control what is "tasteful" and use art to justify their landgrabs and greed.
+ [^land]: I now have a deeper understanding of the fact that this is [not "our" land](Histories.md). And land is not something to be ignored: look at "artwashing" and "creative placemaking" - those owning **land** control what is "tasteful" and use art to justify their landgrabs and greed.
 
 In the following years, the question of what art can or should do was still at my heels. I wrote in a now-defunct blog in early 2019:
 
