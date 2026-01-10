@@ -13,6 +13,20 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
+        <div class="footer-blaze">
+          <img
+          src="/static/blaze-light.png"
+          alt="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
+          title="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
+          className="blaze blaze-light"
+          />
+          <img
+          src="/static/blaze-dark.png"
+          alt="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
+          title="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
+          className="blaze blaze-dark"
+          />
+        </div>
         <p>
           <a href="https://hew.tt">⌂</a> | © {year} Nathan Hewitt (made with <a href="https://quartz.jzhao.xyz">Quartz</a>)
         </p>

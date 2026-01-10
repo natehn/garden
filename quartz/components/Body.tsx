@@ -7,18 +7,6 @@ const Body: QuartzComponent = ({ children }: QuartzComponentProps) => {
 return (
     <div id="quartz-body">
       {children}
-      <img
-  src="/static/blaze-light.png"
-  alt="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
-  title="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
-  className="blaze blaze-light"
-/>
-<img
-  src="/static/blaze-dark.png"
-  alt="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
-  title="Three blazes denote the end of the path. Turn back? Or explore the unknown..."
-  className="blaze blaze-dark"
-/>
     </div>
   )
 }
