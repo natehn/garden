@@ -36,7 +36,7 @@ Some folks are [excellent dumpster divers](https://trashwiki.org/en/Main_Page). 
 
 ### Internet
 
-When you're in a new place, and working full-time, you also need internet and a quiet place (and electricity) to work *dependably*, on-demand. After a while, being on the road won't be a good enough excuse for being late to meetings or having a poor connection. Thus, I found that when I needed a good connection, and when I didn't have it through my accommodation, I would choose corporate businesses like Starbucks and WeWork over local ones, simply because I could be 100% sure they would work.
+When you're in a new place, and engaging in [[remote work]] full-time, you also need internet and a quiet place (and electricity) to work *dependably*, on-demand. After a while, being on the road won't be a good enough excuse for being late to meetings or having a poor connection. Thus, I found that when I needed a good connection, and when I didn't have it through my accommodation, I would choose corporate businesses like Starbucks and WeWork over local ones, simply because I could be 100% sure they would work.
 
 The back-up for internet is always a mobile hotspot. In my case, I could tether my laptop to my phone. This was especially useful when I was living in a van for a week, and when I was traveling by plane.
 

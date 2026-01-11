@@ -503,6 +503,8 @@ See Bay Area above.
 - Osteria al Tajer
 - Trattoria Alle Lanternine
 
+See also: [[Venetian Coin]]
+
 ![[venezia.jpg|A street in Venice.]]
 
 ### Vermont, USA

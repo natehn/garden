@@ -7,9 +7,12 @@ This is where I plant ideas. It's a little bit like a commonplace book, *biji*, 
 
 ---
 
-Wondering where to start? Here are my current favorites:
+Wondering where to start? Here are some current favorites:
 
+- [[All Your Attentions]]
 - [[Dithering like riso]]
+- [[Draw a monster]]
 - [[Fun phone bots you can call]]
 - [[One-on-one sports]]
 - [[Time]]
+- [[Venetian Coin]]

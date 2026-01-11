@@ -3,6 +3,8 @@ publish: "true"
 modified: 2023-11-27
 comments: "true"
 ---
+Before getting into [[packing and preparation]], you first need to decide where to go! And when.
+
 ### Timing and Destination
 
 Timing is key. For me, the right amount of time on the road was about two months. That's how long I did it in 2015; in 2021 I traveled for five months and it was a little long, although, I did catch a brief "second wind" at about the 3 month mark.
@@ -39,4 +41,4 @@ Staying close to the city center typically provides more flexibility (in terms o
 
 ### Travel Methods
 
-Planes are typically the easiest, but I recommend trains ([US](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf)/[Canada](https://www.viarail.ca/en/explore-our-destinations/trains)), buses (Flixbus or Greyhound), and boats if you can swing it. Explore your options using [Rome2Rio](https://www.rome2rio.com/) and Google Maps - changing up your travel method [can be fun](https://xkcd.com/2603/). And keep in mind that using a train or bus rather than a boat lowers your impact on the planet. (More tips on each method of travel [below](#travel-mobility).)
+Planes are typically the easiest, but I recommend trains ([US](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf)/[Canada](https://www.viarail.ca/en/explore-our-destinations/trains)), buses (Flixbus or Greyhound), and boats if you can swing it. Explore your options using [Rome2Rio](https://www.rome2rio.com/) and Google Maps - changing up your travel method [can be fun](https://xkcd.com/2603/). And keep in mind that using a train or bus rather than a boat lowers your impact on the planet - there are many [[modes of travel]] to choose from, not just planes!

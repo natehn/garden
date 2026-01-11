@@ -27,9 +27,19 @@ export default ((opts?: Options) => {
           className="blaze blaze-dark"
           />
         </div>
+        <div>
         <p>
-          <a href="https://hew.tt">⌂</a> | © {year} Nathan Hewitt (made with <a href="https://quartz.jzhao.xyz">Quartz</a>)
-        </p>
+          <a href="https://hew.tt" target='_blank'>⌂</a> | <a href="https://webring.xxiivv.com/#icons" target="_blank" class="inline-icon">
+            <img
+              src="/static/xxiivv.gray.svg"
+              alt="XXIIVV Webring"
+              width="11.5"
+              height="11.5"
+            />
+          </a> | 
+          © {year} Nathan Hewitt (made with <a href="https://quartz.jzhao.xyz" target='_blank'>Quartz</a>)
+        </p> 
+        </div>
       </footer>
     )
   }

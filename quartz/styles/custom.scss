@@ -58,3 +58,10 @@ body {
   background-blend-mode: darken;
   background-size: 100% 100%;
 }
+
+// aligning webring icon
+
+.inline-icon img {
+  display: inline-block;
+  vertical-align: -1.025em;
+}
