@@ -12,7 +12,7 @@ Current wishlist:
 - make mobile title slightly smaller + fix weird styling (bg color) at top of mobile
 - fix bug where "paths" turns back to "explorer" when looking at folder pages
 - replace book icon with a finger-shush icon instead
-- turning on comments (maybe)
+- turning on comments (maybe - or maybe a guestbook is enough)
 - make the footnotes header a bit smaller
 - change the section breaks to be more interesting; maybe a more print-looking symbol
 - try out mermaid diagrams
