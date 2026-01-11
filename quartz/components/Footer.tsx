@@ -37,7 +37,8 @@ export default ((opts?: Options) => {
               height="11.5"
             />
           </a> | 
-          © {year} Nathan Hewitt (made with <a href="https://quartz.jzhao.xyz" target='_blank'>Quartz</a>)
+          © {year} Nathan Hewitt (made with <a href="https://quartz.jzhao.xyz" target='_blank'>Quartz</a>) 
+          <link href="https://github.com/natehn" rel="me">
         </p> 
         </div>
       </footer>
