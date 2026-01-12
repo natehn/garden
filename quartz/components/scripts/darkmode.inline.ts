@@ -26,44 +26,38 @@ document.addEventListener("nav", () => {
     const themeAttr = document.documentElement.getAttribute("saved-theme") as "light" | "dark"
     const variantAttr = document.documentElement.getAttribute("theme-variant")
     
-    // Get the variant list for the current mode (light or dark)
+    // Get the variant list for the current mode
     const currentVariantList = variantConfig[themeAttr] || []
 
     if (!variantAttr) {
-        // CASE A: We are in Default Mode.
-        // If there are variants available for this mode, switch to the first one.
         if (currentVariantList.length > 0) {
             const nextVariant = currentVariantList[0]
             document.documentElement.setAttribute("theme-variant", nextVariant)
             localStorage.setItem("theme-variant", nextVariant)
         } else {
-            // No variants? Switch to the OPPOSITE mode (Default).
             const nextTheme = themeAttr === "light" ? "dark" : "light"
             document.documentElement.setAttribute("saved-theme", nextTheme)
             localStorage.setItem("theme", nextTheme)
-            emitThemeChangeEvent(nextTheme as "light" | "dark")
         }
     } else {
-        // CASE B: We are already in a Variant.
         const currentIdx = currentVariantList.indexOf(variantAttr)
-        
-        // Are there more variants left in this specific list?
         if (currentIdx > -1 && currentIdx + 1 < currentVariantList.length) {
-             // Yes, go to the next variant
              const nextVariant = currentVariantList[currentIdx + 1]
              document.documentElement.setAttribute("theme-variant", nextVariant)
              localStorage.setItem("theme-variant", nextVariant)
         } else {
-             // No, we reached the end of this mode's variants.
-             // Switch to the OPPOSITE mode (Default).
              const nextTheme = themeAttr === "light" ? "dark" : "light"
              document.documentElement.setAttribute("saved-theme", nextTheme)
              document.documentElement.removeAttribute("theme-variant")
              localStorage.setItem("theme", nextTheme)
              localStorage.removeItem("theme-variant")
-             emitThemeChangeEvent(nextTheme as "light" | "dark")
         }
     }
+
+    // --- THE FIX IS HERE ---
+    // We trigger the event every time so the Graph knows to re-read the CSS variables
+    const finalTheme = document.documentElement.getAttribute("saved-theme") as "light" | "dark"
+    emitThemeChangeEvent(finalTheme)
   }
 
   // Attach the listener to the button

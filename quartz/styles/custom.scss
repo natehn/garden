@@ -72,3 +72,48 @@ body {
   width: 20px;
   height: 20px;
 }
+
+// styling scrollbar
+
+body {
+    scrollbar-color: var(--lightgray) var(--light); /* thumb, track */
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+    background: var(--light); 
+}
+body::-webkit-scrollbar-thumb {
+    background-color: var(--lightgray); 
+}
+
+// making mobile title text a little smaller
+
+@media all and (max-width: 600px) {
+  .sidebar.left {
+    & .page-title {
+      font-size: 1.4rem !important; 
+      margin: 0;
+    }
+    
+    & .page-title a {
+      font-size: 1.4rem !important; 
+    }
+  }
+}
+
+// making footnotes header less prominent
+
+.footnotes {
+  margin-top: 2rem;
+  border-top: 1px solid var(--lightgray);
+  & > h2, 
+  & > #footnote-label {
+    font-size: 1.1rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+}

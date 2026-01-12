@@ -58,8 +58,8 @@ $desktopGrid: (
 );
 
 :root {
-  --bg-top: --light;
-  --bg-bottom: --light;
+  --bg-top: var(--light);
+  --bg-bottom: var(--light);
 }
 
 // adding theme variants
