@@ -125,6 +125,13 @@ button.desktop-explorer {
       opacity: 0.75;
       pointer-events: all;
 
+      // indenting second line
+
+      display: block;       
+      padding-left: 0.8rem;    
+      text-indent: -0.8rem;    
+      // line-height: 1.4rem; 
+
       &.active {
         opacity: 1;
         color: var(--tertiary);
