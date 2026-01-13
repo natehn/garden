@@ -26,6 +26,8 @@ Loving ugly is not hating beauty. Loving ugly is an openness to the new, to the 
 
 What "ugly" looks like depends on where you are. In a college radio station, it's my friend Cam admitting how much he likes Drake. In a New York gallery, it's admiring a discarded draft. At home, it is (actually) loving a niece's latest crayon piece.
 
+![[cheap-art.png]]
+
 I'll caution you: in the art world, loving ugly - the *right* ugly, soon to be declared beautiful - can be currency. (Yes, I really did see them before they got big. Oh yes, I met them at a party a few years ago in LA.) Tastemakers love "discovering" outsider art and music, wacko zines and "untrained" "savants." But the goal, here, is not to be "hip." We seek liberation - at least, what little is available to us. (When we love ugly, no one need know.)
 
 Yes. Most of our "taste" comes from domination, from supremacy, from extraction - from "patronage." Remove them, and what will we find?
@@ -75,6 +77,10 @@ And no one is.
 
 ~
 
+![[not a pipe.png]]
+
+~
+
 Yes, yes, okay whatever Nathan. But in the real world, there are many artists, tastemakers, teachers, art lovers. Liberation is *quite* far away, it feels. Where do we start?
 
 ~
@@ -103,6 +109,8 @@ seeing beauty -
 the     
 *ugly* beauty,     
 everywhere.
+
+![[typewriter art.png]]
 
 It is allllllllllll around us.
 
@@ -136,6 +144,8 @@ I quoted Hito Steyerl, who I was into of course:
 I was coming to terms with the fact that the monetary value placed on art in the centuries-old, Western-led "art world"[^art world] comes from a market, from speculation, and it always has. At the lower price points, art objects compete with mass-produced home-goods, and rarely recuperate the real labor cost by the artist. In the art market proper, art objects serve as investments. To destroy the idea of art as an investment, we must abolish both the idea of investment and of art.
 
 [^art world]: Kendell Geers: “There is no such thing as an art world. There are many art worlds overlapping, and it has become a bad habit to imagine that the exclusive club of auction houses and investment art is anything but the folk art of a small but powerful economic and social elite club.”
+
+![[art.jpg]]
 
 Even though I was skeptical of art at the time, and political art in particular, I still believed that, somehow, a *collective* political art was possible that could succeed in "changing the world":
 
@@ -199,11 +209,15 @@ While I have supported and will continue to support artists as described in the 
 
 [^change]: I don't always believe a liberated world is possible. But I was formed by this one. Most of the time, I can barely see beyond my own nose. Octavia wrote that "the only lasting trust is change," and it is up to us to shape it.
 
+![[nonprofessional-experiment.png]]
+
 That said, "loving ugly" is not about systemic change either. It is just an idea, a thought experiment. It is not compatible with the labor movement, or with professional artistry, and only indirectly part of any political movement. It is not for the "now," and although I can hold both the contradictory needs of the now and the future, I would not want to overstate its effectiveness. It cannot bring itself into being.
 
 ### Art people aren't evil
 
 The people I demean in Loving Ugly are my friends. I do not dislike them! I dislike the system they are swimming in..there is not enough food in their tank. There aren't even enough sharks for all the little passengers to mooch off of.
+
+![[break a museum into pieces.png]]
 
 ### The world is ugly enough already
 
@@ -230,6 +244,8 @@ Folks following knitting patterns know what I'm talking about. And artists who a
 ### The art world sucks, but I love New York
 
 How do we balance doing "art" for no reason with doing it for other people and doing it to feel good and doing it to be interesting and doing it to make a difference and doing it to earn a living and doing it to earn recognition and doing it to become famous and doing it to feel fulfilled? We can't. We have to let go.
+
+![[spiritually-alive.png]]
 
 Cities, as nodes, form a center of "care" for artists - a place that provides a larger number of opportunities for them. This can be really fun, even if you are competing against your friends and lovers for table scraps and have to survive [outside institutions](https://www.poetryfoundation.org/harriet-books/2017/08/how-is-the-artist-or-writer-to-function-survive-and-produce-in-the-community-outside-of-institutions). Loving ugly would do away with this - both the "hard" and the "fun" of places like New York.
 
