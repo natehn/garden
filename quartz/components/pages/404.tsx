@@ -17,8 +17,8 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
           style={{ maxWidth: "200px", flexShrink: 0 }}
         />
         <div style={{ flex: 1 }}>
-          <p>Whoops! There's an error: <code>HTTP 404: Page Not Found</code>. Either this page is private or doesn't exist.</p>
-          <p> If you know the page exists, use the search bar on the home page to find what you are looking for! </p>
+          <p>Whoops! There's an error: <code>HTTP 404: Page Not Found</code>. This page is private, changed names, changed locations, or doesn't exist.</p>
+          <p> If you believe the page exists, use the search bar on the home page to find what you are looking for! </p>
           <p><a href={baseDir}>Click here to return home.</a></p>
         </div>
       </div>
