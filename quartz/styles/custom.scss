@@ -103,7 +103,7 @@ body::-webkit-scrollbar-thumb {
       font-size: 1.4rem !important; 
     }
   }
-  .sidebar.left, 
+//  .sidebar.left, 
   .sidebar.right,
   .page-header {
     background-color: transparent !important;
@@ -114,11 +114,11 @@ body::-webkit-scrollbar-thumb {
   }
 }
 
-.page > #quartz-body .sidebar.left {
-  @media all and (max-width: 600px) {
-     background-color: transparent !important;
-  }
-}
+// .page > #quartz-body .sidebar.left {
+//  @media all and (max-width: 600px) {
+//     background-color: transparent !important;
+//  }
+//}
 
 // making footnotes header less prominent and adding 
 
