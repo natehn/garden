@@ -36,7 +36,7 @@ export default ((opts?: Options) => {
               width="11.5"
               height="11.5"
             />
-          </a> | <a href="mailto:nathan@hew.tt" target='_blank' rel="me">✉</a> | <a href="https://store.hew.tt/" target='_blank' rel="me">☕</a> | <a href="https://hew-tt.atabook.org" target='_blank'>Guestbook</a> | © {year} Nathan Hewitt (made with <a href="https://quartz.jzhao.xyz" target='_blank'>Quartz</a>) 
+          </a> | <a href="mailto:nathan@hew.tt" target='_blank' rel="me">✉</a> | <a href="https://store.hew.tt/" target='_blank' rel="me">☕</a> | <a href="https://hew-tt.atabook.org" target='_blank'>✍️</a> | © {year} Nathan Hewitt (made with <a href="https://quartz.jzhao.xyz" target='_blank'>Quartz</a>) 
         </p> 
         </div>
       </footer>
