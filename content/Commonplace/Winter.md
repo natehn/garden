@@ -2,8 +2,6 @@
 publish: "false"
 modified: 2026-04-26
 ---
-“Snow Storm” by Edna St. Vincent Millay:
-
 > No hawk hangs over in this air:   
 > The urgent snow is everywhere.    
 > The wing adroiter than a sail   
@@ -20,3 +18,6 @@ modified: 2026-04-26
 > Where close to earth like mice we go    
 > Under the horizontal snow.   
 
+from “Snow Storm” by Edna St. Vincent Millay
+
+~
