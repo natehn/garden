@@ -48,6 +48,9 @@ comments: "false"
 - Spectator Books is good
 - Friends and Family is tasty, and Understory, and so is breakfast at Alem's Coffee
 - Trojan Point, north of Marin
+- Esmerelda Corridor + the sunset from Bernal Heights Park
+- Dog Eared Books + Dorothy Park
+- Sutro Baths
 
 ![[somme bokeh action.jpg|A view from across the bay, on my first night sleeping in a van nearby.]]
 
@@ -111,6 +114,17 @@ They have their own language, [Boontling](https://en.wikipedia.org/wiki/Boontlin
 - nh galeria
 - la cevicheria
 - rincon del mar (see below)
+
+
+### Charleston, SC
+
+- Charlestowne Tobacco & Wine
+- City Gallery
+
+### Charleston, WV
+
+- symphony sunday
+- carriage trail
 
 ### Charlottesville, VA, USA
 
