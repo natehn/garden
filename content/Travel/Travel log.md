@@ -115,7 +115,6 @@ They have their own language, [Boontling](https://en.wikipedia.org/wiki/Boontlin
 - la cevicheria
 - rincon del mar (see below)
 
-
 ### Charleston, SC
 
 - Charlestowne Tobacco & Wine
