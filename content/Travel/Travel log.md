@@ -330,15 +330,7 @@ You don't need my help with this one. I mean, there's the beach for starters. An
 
 ### New York, NY, USA
 
-*Eventually I will give it its own page...*
-
-![[nyc-grocery.jpeg|A bustling local grocery store.]]
-
-![[nyc-flowershop.jpeg|A flatiron-shaped building with a flowershop's name written down its face.]]
-
-![[nyc-bookstore.jpeg|The outside of a cute little bookstore.]]
-
-![[nyc-bar.jpeg|A handwritten notice on the wall of a bar asking patrons not to leave trash on the street.]]
+See [[Notes on New York]]. I lived there for eight years.
 
 ### New Zealand
 
@@ -495,6 +487,12 @@ See Bay Area above.
 ### Thawville, IL, USA
 
 - Artesia brewery
+
+### The Adirondacks
+
+Where you can see the stars.
+
+I've gone up to the mountains a couple of times, staying in Minerva and Lake Placid. Minerva is really cute but a bit far from many of the trailheads. Lake Placid has easier access but is more urban. The High Peaks Wilderness is great, and I recommend climbing Mt Marcy. In the winter, you can cross-country ski and show-shoe, and walk out on Mirror Lake. The rest of the year, there's no shortage of lake activities to enjoy as well, such as swimming or kayaking.
 
 ### Traverse City, MI, USA
 - it's fun in the winter, haven't been in the summer
