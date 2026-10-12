@@ -30,6 +30,7 @@ Here are some options to consider for your visit in Manhattan, beyond the classi
 - Any of the parks will do, and Central Park is great but can really eat up your day. If you do, like the rambler and the conservatory garden, but just exploring is worth it. Smaller parks can definitely serve through out the day, though, like Tompkins Square, which is near some of the other things listed here. Washington Square Park is a little much but is a great place to pick up on the NYC energy, for better or worse (if you go there, make sure to also drop by the Music Inn)
 - I love to get cronuts at the original Donut Pub at 7th and 14th
 - The High Line is both oft-recommended and a must-do if you are in Manhattan on a nice day
+- Another fun walk is along Greenwich Ave between the Whitney and Washington Square Park. This can be tacked on to the end of a southbound walk on the High Line
 - Earth Room, Broken Kilometer, and Dream House are all great long-term art installations (before you start, check out Mercer Street Books as well)
 - If you are in midtown (and I have to say, it is largely missable), my favorite area is K-town, and Food Gallery 32 is my go-to there. Kentuckians will also want to check out Jack Demsey’s, the UK bar
 - If you go to Times Square, check out Max Neuhaus’s drone art installation underneath one of the sewer grates, you might need to bend down to hear it
