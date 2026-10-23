@@ -2,6 +2,8 @@
 publish: "true"
 modified: 2026-05-24
 aliases:
+tags:
+  - poems
 ---
 The stone   
 Just so    

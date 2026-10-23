@@ -2,6 +2,8 @@
 publish: "true"
 modified: 2022-11-09
 comments: "true"
+tags:
+  - poems
 ---
 *On the two-year anniversary of [[Leaving Facebook]]. [[all-your-attentions.mp3|Audio version.]]*
 

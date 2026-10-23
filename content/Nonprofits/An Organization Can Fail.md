@@ -2,6 +2,8 @@
 publish: "true"
 modified: 2025-09-09
 comments: "true"
+tags:
+  - poems
 ---
 > You are the sun’s rays that warm our earth and give life to flowers, our children. I want my children to be like you and help people.   
 

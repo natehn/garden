@@ -63,3 +63,47 @@ from [“On Silence”](https://circulodepoesia.com/2021/05/poesia-norteamerican
 > Falling apart after falling in love songs.   
 
 from [“Singing Everything”](https://inwardboundpoetry.blogspot.com/2020/09/1051-singing-everything-joy-harjo.html) by Joy Harjo
+
+~
+
+> Whenever I have a day off, I write a new poem.    
+> Does this mean you shouldn’t [[work]], or that you    
+> write best on your day off?   
+> 
+> For example, this is the poem I wrote today.
+
+from “Circle Poems” by Lew Welch, in *Ring of Bone*
+
+~
+
+> The poem is not the heart’s cry   
+> (Though it seems to be if you have craft enough)   
+> The poem is made to carry the heart’s cry
+> 
+> And only to carry it. And the cry is always the   
+> Same . . . for all times and every place the   
+> Same perceptions met a hundred times, or once.
+> 
+> The rest is exuberance.   
+> The force left over after dealing with   
+> An undemanding planet in a square time . . . 
+> 
+> No more or less mysterious than the juicing   
+> Of the glands. The need to skip a stone   
+> Across that pond. To yell among the high mountains.
+> 
+> You think you read for the heart’s cry   
+> But you do not. You read because no stone   
+> Ever skips perfectly. Because that mountain   
+> 
+> Always lets you down. Because no matter   
+> How you yell the voice bounced back   
+> Is flat. The words are puny.   
+> 
+> The need for another world that always works right   
+> Is the heart’s exuberance.   
+> We don’t hide there. We spill over and
+> 
+> Make it.
+
+“For Joseph Kepecs” by Lew Welch, from *Ring of Bone*

@@ -19,3 +19,5 @@ aliases:
 > An artist should stay for long periods of time looking at the stars in the night sky
 
 Abramović
+
+~

@@ -2,6 +2,8 @@
 publish: "true"
 modified: 2025-07-09
 comments: "true"
+tags:
+  - poems
 ---
 When I took my gargantuan 1940s desktop typewriter to get repaired, my Lyft driver was fascinated. In a short, ten-minute ride, our conversation expanded from technology, to labor, to capitalism, and the future.
 

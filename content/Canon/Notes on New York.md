@@ -1,6 +1,6 @@
 ---
 publish: "true"
-modified: 2026-10-12
+modified: 2026-10-22
 aliases:
 ---
 ![[wsp.png]]
@@ -29,7 +29,7 @@ Here are some options to consider for your visit in Manhattan, beyond the classi
 - Get some hand-pulled noodles on Doyers Street in Chinatown, then get dessert in Little Italy, or on a hot day, ice cream at the Original Chinatown Ice Cream Factory
 - Chinatown is really the best. For example, in the evening or even after a show, get some cheap skewers at the BBQ cart at Grand and Crystal (unless it rains) Or for dinner, go to Vanessa’s Dumpling House and pray for a table
 - See some weird music at Downtown Music Gallery
-- Any of the parks will do, and Central Park is great but can really eat up your day. If you do, like the rambler and the conservatory garden, but just exploring is worth it. Smaller parks can definitely serve through out the day, though, like Tompkins Square, which is near some of the other things listed here. Washington Square Park is a little much but is a great place to pick up on the NYC energy, for better or worse (if you go there, make sure to also drop by the Music Inn)
+- Any of the parks will do, and Central Park is great but can really eat up your day. If you do, I like the rambler and the conservatory garden, but just exploring is worth it. Smaller parks can definitely serve through out the day, though, like Tompkins Square, which is near some of the other things listed here. Washington Square Park is a little much but is a great place to pick up on the NYC energy, for better or worse (if you go there, make sure to also drop by the Music Inn)
 - I love to get cronuts at the original Donut Pub at 7th and 14th
 - The High Line is both oft-recommended and a must-do if you are in Manhattan on a nice day
 - Another fun walk is along Greenwich Ave between the Whitney and Washington Square Park. This can be tacked on to the end of a southbound walk on the High Line
@@ -44,7 +44,7 @@ Here are some options to consider for your visit in Manhattan, beyond the classi
 
 There’s honestly *so much* but hopefully this is a nice start for Manhattan. Don’t even get me started on restaurants.
 
-Outside of Manhattan, some highlights:
+Outside of Manhattan, some other general highlights *(see further down for [[#Ridgewood, my favorite neighborhood|Ridgewood/Bushwick recommendations]])*:
 
 - Getting food in in the Flushing and Jackson Heights neighborhoods of Queens
 - The best cheap date I ever organized was in Williamsburg: Oasis mediterranean, Spectacle theater movie, then a drink at Duff’s
@@ -126,6 +126,11 @@ I recommend avoiding any business that [has investment from Kermit Westergaard](
 
 ![[rooftop performance.jpg]]
 
+> There is a pigeon leaving footprints on the window sill nearest my bed.      
+> Through clenched teeth he whispers information I should already know.      
+> I tell him that I don’t know. He tells me that I’m stupid. “You’re not even trying” he spits, gesturing and implying. I am looking the wrong way.   
+> *from Act 1 of “Birdsong” by Jordan Germ, in Mild Ulcer #2*
+
 And in nearby Bushwick, here are some other recs:
 
 - Xanadu Roller Arts
@@ -182,6 +187,7 @@ And if you run into trouble:
 *Incomplete*
 
 - Read [Hell Gate](https://hellgatenyc.com/)!!
+- Bring an [[Polkadot umbrella|umbrella]]
 - If you are new to the city, start by trying grocery stores. Get your commute down pat. Then try and find a weekly activity that you like. Go to a park, even if it is cold or raining. Don’t be afraid to ask someone to hang out. And most of all, focus on yourself and your needs
 - It can be tricky, but there are public tennis courts that don’t require a pass, for example Jackie Robinson and he Chelsea Piers. We would also book late-night courts at the McCarren Park tennis center
 

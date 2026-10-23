@@ -1,6 +1,6 @@
 ---
 publish: "true"
-modified: 2026-04-26
+modified: 2026-09-22
 ---
 *A running commentary.*
 
@@ -40,3 +40,15 @@ It is not clear to me that there is a God, but I’m also not sure it matters al
 
 If God is Change, ought we to worship it? Could we, if we wanted to? If I did, I think I would find it most natural to worship change in the way that a culture might worship the thunder or earthquakes or tornados. In  the face of their intransigence and indifference, seeking not their coming or going, but only to be spared from the worst of their destruction.
 
+~
+
+> It is morning. When I move my legs the sheet is cold.   
+> I try to reassemble to the shape I was to leach the warmth.   
+> I give up, turn over, embrace the change.   
+> There is no other way.   
+
+“I Had A Dream My Basil Came Back To Life,” by Jordan Germ in *Mild Ulcer #1*
+
+~
+
+I wrote [[How New Things Glisten|a short rhyming poem about change]] the other day.
