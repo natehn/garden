@@ -5,9 +5,11 @@ aliases:
 tags:
   - poems
 ---
-*cw: suicide - though not graphic*
+*CW: suicide, non-graphic*
 
-*(In answer to David, and the words of Oriah Mountain Dreamer)*
+*In answer to David, and the words of Oriah Mountain Dreamer.*
+
+~
 
 When I touch the center of my sorrow    
 There is Carl    

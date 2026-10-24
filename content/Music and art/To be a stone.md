@@ -5,6 +5,10 @@ aliases:
 tags:
   - poems
 ---
+*From the north shore.*
+
+~
+
 The stone   
 Just so    
 Says to the earth    

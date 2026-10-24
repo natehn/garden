@@ -51,4 +51,4 @@ If God is Change, ought we to worship it? Could we, if we wanted to? If I did, I
 
 ~
 
-I wrote [[How New Things Glisten|a short rhyming poem about change]] the other day.
+I wrote [[How new things glisten|a short rhyming poem about change]] the other day.
