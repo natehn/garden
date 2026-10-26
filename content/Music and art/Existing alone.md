@@ -1,8 +1,11 @@
 ---
 publish: "true"
 modified: 2020-04-15
-comments: "true"
 ---
+*The written introduction to my 2020 album,* [Music for Fifteen Emails](https://www.subvert.fm/nathan/music-for-fifteen-emails).
+
+~
+
 Friend,  
   
 I ran into this quote the other day:  

@@ -4,6 +4,10 @@ modified: 2026-10-25
 aliases:
 tags:
 ---
+![[some things about trees.png]]
+
+~
+
 > The dense linden tree, a perennial spy, reveals itself through the holes in my screen. I consider the quiet informant. His subtle sweetness casts silhouettes over the collection of my early morning thoughts. A ripple of delicateness, my palms loosen.   
 
 from Act 2 of “Birdsong” by Jordan Germ, in *Mild Ulcer #2*
@@ -88,6 +92,18 @@ In short, [there’s no such thing as a tree](https://eukaryotewritesblog.com/20
 
 ~
 
+> Found cedar tannin tainted rocks on the shore, followed it into the forest and found a large flat area, stepped on it, it was almost 2 meters in diameter, I kicked off the moss a bit, it looked like a large disc of brown marble.
+> 
+> I realized later that I was standing on a tree trunk that must have been 500-600 years old. There was no damage around it, I think this giant must have been fell more than a hundred years ago, the forest regrew around it.
+
+Devine, [June 2022](https://merveilles.town/@neauoire/108592538079045876)
+
+~
+
+![[trees pt 1.png]]
+
+~
+
 > My father's oak, three years taller, stands taller now than I.    
 > Two crows for company. 
 > 
@@ -111,3 +127,13 @@ In short, [there’s no such thing as a tree](https://eukaryotewritesblog.com/20
 “My Father’s Oak,” by Marie Howe
 
 ~
+
+![[trees pt 2.png]]
+
+~
+
+> 10 The moon is dull. Mother Nature doesn't call, doesn't speak to you, although a glacier eventually farts. And don't you listen to the Song of Life.
+> 11 We ought to be grateful that the Universe out there knows no smile.
+> 12 Life in the oceans must be sheer hell. A vast, merciless hell of permanent and immediate danger. So much of a hell that during evolution some species - including man - crawled, fled onto some small continents of solid land, where the Lessons of Darkness continue.
+
+from Werner Herzog’s [“Minnesota Declaration”](https://www.youtube.com/watch?v=GkJiasC3cRI)

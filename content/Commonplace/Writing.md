@@ -107,3 +107,5 @@ from “Circle Poems” by Lew Welch, in *Ring of Bone*
 > Make it.
 
 “For Joseph Kepecs” by Lew Welch, from *Ring of Bone*
+
+~
