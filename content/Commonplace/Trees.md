@@ -132,8 +132,10 @@ Devine, [June 2022](https://merveilles.town/@neauoire/108592538079045876)
 
 ~
 
-> 10 The moon is dull. Mother Nature doesn't call, doesn't speak to you, although a glacier eventually farts. And don't you listen to the Song of Life.
-> 11 We ought to be grateful that the Universe out there knows no smile.
-> 12 Life in the oceans must be sheer hell. A vast, merciless hell of permanent and immediate danger. So much of a hell that during evolution some species - including man - crawled, fled onto some small continents of solid land, where the Lessons of Darkness continue.
+> 10 The moon is dull. Mother Nature doesn't call, doesn't speak to you, although a glacier eventually farts. And don't you listen to the Song of Life.    
+> 
+> 11 We ought to be grateful that the Universe out there knows no smile.    
+> 
+> 12 Life in the oceans must be sheer hell. A vast, merciless hell of permanent and immediate danger. So much of a hell that during evolution some species - including man - crawled, fled onto some small continents of solid land, where the Lessons of Darkness continue.    
 
 from Werner Herzog’s [“Minnesota Declaration”](https://www.youtube.com/watch?v=GkJiasC3cRI)
