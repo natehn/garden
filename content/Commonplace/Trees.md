@@ -4,6 +4,14 @@ modified: 2026-10-25
 aliases:
 tags:
 ---
+> He says he likes nature in some circumstances,    
+> for example: a salad.    
+> That’s interesting I say.
+
+from “Nature,” by Rebecca Tamás
+
+~
+
 ![[some things about trees.png]]
 
 ~
@@ -37,6 +45,16 @@ from Act 2 of “Birdsong” by Jordan Germ, in *Mild Ulcer #2*
 > watching it happen without it happening to me.
 
 “The Copper Beech,” by Marie Howe
+
+~
+
+> The forests are not afraid of anything, nor are they brave.    
+> Greenness is not being brave it is being marvellous,     
+> it is converting light and eating it, and thrusting out,    
+> where everything is a fuck, the light and the water is,    
+> topsoil, xylem.
+
+from “Nature,” by Rebecca Tamás
 
 ~
 
@@ -139,3 +157,5 @@ Devine, [June 2022](https://merveilles.town/@neauoire/108592538079045876)
 > 12 Life in the oceans must be sheer hell. A vast, merciless hell of permanent and immediate danger. So much of a hell that during evolution some species - including man - crawled, fled onto some small continents of solid land, where the Lessons of Darkness continue.    
 
 from Werner Herzog’s [“Minnesota Declaration”](https://www.youtube.com/watch?v=GkJiasC3cRI)
+
+~

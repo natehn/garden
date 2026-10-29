@@ -14,7 +14,7 @@ Blue, lights, arrival, alone;
 Motorcycle, trees, zip ties, fear.    
 So much fear.    
 I called you over and over and over and you didn’t answer.    
-Neither did Bonkers, or Manfred,    
+Neither did Wildness, or ██████,    
 Not for a while.    
 Until eventually you did    
 And I asked you what to do    
@@ -49,7 +49,7 @@ And you told them.
 Then you asked me what to do    
 And I said    
 I didn’t know    
-But that Bonkers is, well -     
+But that Wildness is, well -     
 Maybe it is better to focus    
 On what you can control.
 

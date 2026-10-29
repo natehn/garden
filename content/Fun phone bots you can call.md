@@ -3,7 +3,7 @@ publish: "true"
 modified: 2024-09-29
 comments: "true"
 ---
-Leave a dream,[^art] hang up, receive a dream:
+Leave a dream, hang up, receive a dream:
 
 - [The Dream Machine](https://www.huongngo.com/participatory), call 1 (877) 877-5602
 

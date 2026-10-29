@@ -1,6 +1,6 @@
 ---
 publish: "true"
-modified: 2026-04-28
+modified: 2026-10-26
 ---
 > *(to remind myself)*   
 > 
@@ -73,6 +73,18 @@ from [“Singing Everything”](https://inwardboundpoetry.blogspot.com/2020/09/1
 > For example, this is the poem I wrote today.
 
 from “Circle Poems” by Lew Welch, in *Ring of Bone*
+
+~
+
+> One of the big Pharaohs once told me in a dream that one day I would   
+> be very thin and sit in a soft armchair. I would be reading a letter,   
+> written in Chinese calligraphy, in pencil, scribbled hastily,   
+> and its central motif would be the mat the author was sitting on   
+> 
+> and the writing pencil with which his hand and arm, torso and brain   
+> and a lifetime of witnessing, were struggling.
+
+from “To Fuzzy,” by James Tate
 
 ~
 

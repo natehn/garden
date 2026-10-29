@@ -12,7 +12,7 @@ tags:
 ~
 
 When I touch the center of my sorrow    
-There is Carl    
+There is ████    
 And an emptiness    
 Where his guidance,     
 And smile,     
@@ -29,9 +29,9 @@ Up into my ears.
 Eighteen years old, and -     
 For some reason -     
 Calling every person I knew, saying:    
-Carl is gone,    
-Carl is gone,     
-Carl is gone.
+████ is gone,    
+████ is gone,     
+████ is gone.
 
 And all these years later,    
 I’m still looking up at him    
@@ -50,7 +50,7 @@ And so I sought out some other plan
 One without Suicide, without    
 Giving Up.
 
-And eventually, as time passed, I put Carl away.    
+And eventually, as time passed, I put ████ away.    
 I hid him right in the center -     
 Layer by layer,    
 Buffering the pain, cloaking the trigger.    

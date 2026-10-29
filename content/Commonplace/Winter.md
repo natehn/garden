@@ -1,7 +1,19 @@
 ---
 publish: "false"
-modified: 2026-04-26
+modified: 2026-10-26
 ---
+> The cold earth slept below;   
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Above the cold sky shone;   
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; And all around,   
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; With a chilling sound,   
+> From caves of ice and fields of snow   
+> The breath of night like death did flow   
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Beneath the sinking moon. 
+
+by Percy Bysshe Shelley
+
+~
+
 > No hawk hangs over in this air:   
 > The urgent snow is everywhere.    
 > The wing adroiter than a sail   
