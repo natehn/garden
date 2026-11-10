@@ -141,9 +141,9 @@ I quoted Hito Steyerl, who I was into of course:
 
 > [Staal] concurs, arguing that contemporary culture has "fallen prey to demagogues and populists, who utilize the spineless landscape of capitalist democracy and its art as an open field for ideas." Today's art is...too quickly absorbed by the capitalist machine and sold to the highest bidder.
 
-I was coming to terms with the fact that the monetary value placed on art in the centuries-old, Western-led "art world"[^art world] comes from a market, from speculation, and it always has. At the lower price points, art objects compete with mass-produced home-goods, and rarely recuperate the real labor cost by the artist. In the art market proper, art objects serve as investments. To destroy the idea of art as an investment, we must abolish both the idea of investment and of art.
+I was coming to terms with the fact that the monetary value placed on art in the centuries-old, Western-led "art world"[^world] comes from a market, from speculation, and it always has. At the lower price points, art objects compete with mass-produced home-goods, and rarely recuperate the real labor cost by the artist. In the art market proper, art objects serve as investments. To destroy the idea of art as an investment, we must abolish both the idea of investment and of art.
 
-[^art world]: Kendell Geers: “There is no such thing as an art world. There are many art worlds overlapping, and it has become a bad habit to imagine that the exclusive club of auction houses and investment art is anything but the folk art of a small but powerful economic and social elite club.”
+[^world]: Kendell Geers: “There is no such thing as an art world. There are many art worlds overlapping, and it has become a bad habit to imagine that the exclusive club of auction houses and investment art is anything but the folk art of a small but powerful economic and social elite club.”
 
 ![[art.jpg]]
 
