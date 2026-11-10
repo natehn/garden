@@ -6,11 +6,13 @@ modified: 2026-04-26
 
 - kaleidoscopes
 - little vintage bells
+- pressed flowers
 - floor hangs, by the fire, meditation pillows and portable kneelers
 - candles in wine bottles
 - leaves scratching a window
 - bird ornaments
 - picking up trash
+- silly letters
 - gardens full of sunflowers by the sidewalk
 - weeping willows
 - border collies

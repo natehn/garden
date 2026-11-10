@@ -1,8 +1,8 @@
 ---
 publish: "true"
-modified: 2026-04-28
+modified: 2026-11-03
 ---
-> The songs of the guardians of silence are the most powerful—   
+> The songs of the guardians of silence are the most powerful—    
 > They are the most rare.   
 
 from [“Singing Everything”](https://inwardboundpoetry.blogspot.com/2020/09/1051-singing-everything-joy-harjo.html) by Joy Harjo
@@ -44,6 +44,12 @@ from [“Singing Everything”](https://inwardboundpoetry.blogspot.com/2020/09/1
 
 ~
 
+> Make some noise right now for the voices in your head.
+
+from “That Thing with the Rabbit” by Headache
+
+~
+
 > “Every word,” wrote Beckett,    
 > “is like an unnecessary stain    
 > on silence & nothingness.” He    
@@ -53,7 +59,7 @@ from [“Singing Everything”](https://inwardboundpoetry.blogspot.com/2020/09/1
 
 from [“Every word,” wrote Beckett, “is like an unnecessary stain”], by Kevin Phan ([link](https://bhreview.org/articles/every-word-wrote-beckett-is-like-an-unnecessary-stain/))
 
-Are we all not silent in the end?
+(Are we all not silent in the end?)
 
 ~
 
@@ -142,3 +148,4 @@ Then I would read a poem.
 > and the poorer silence now.
 
 [“Silence”](https://www.poetryfoundation.org/poetrymagazine/poems/12577/silence) by Billy Collins
+

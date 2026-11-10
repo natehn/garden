@@ -6,4 +6,4 @@ modified: 2026-10-22
 - Comedy: *Ted Lasso* and *Taskmaster*
 - Family: [A Table Is as Good as Nine Lives](https://vimeo.com/658631101)
 - Music: [*In B Flat*]([http://inbflat.net/](http://inbflat.net/)), [“Car Alarm”](https://www.youtube.com/watch?v=jcutNFPwXPE)
-- Meaning: [*Heavyweight*](https://www.pushkin.fm/podcasts/heavyweight)
+- Meaning: [*Heavyweight*](https://www.pushkin.fm/podcasts/heavyweight), [Audio Poem of the Day](https://www.poetryfoundation.org/podcasts/series/74634/audio-pod)

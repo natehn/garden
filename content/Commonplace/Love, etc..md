@@ -1,10 +1,14 @@
 ---
-publish: "false"
-modified: 2026-10-26
+publish: "true"
+modified: 2026-11-09
 aliases:
 tags:
 ---
+> Love is the only thought, and pain is the only feeling.
 
+Headache, throughout *The Head Hurts but the Heart Knows the Truth*
+
+~
 
 > But,   
 > 
@@ -27,7 +31,22 @@ from “i don’t care to know about love” by Sana Masud
 > the best times of my life   
 > were spent deep in your eyes  
 
-from “for lori” in” *It’s A Fuck Songbook*, author unknown 
+from “for lori” in *It’s A Fuck Songbook*, author unknown 
+
+~
+
+> A crush is just a lack of information.
+
+a friend, by the crush board
+
+~
+
+> Love is the king of the beasts     
+> And when it gets hungry, it must kill to eat     
+> Love is the king of the beasts      
+> A lion walking down city streets
+
+from “Eid Ma Clack Shaw” by Bill Callahan
 
 ~
 
@@ -36,7 +55,7 @@ from “for lori” in” *It’s A Fuck Songbook*, author unknown
 > and if I hurry towards the end   
 > will you be the one to slow me?   
 
-from “dirty brunette” in” *It’s A Fuck Songbook*, author unknown 
+from “dirty brunette” in *It’s A Fuck Songbook*, author unknown 
 
 ~
 
@@ -51,7 +70,7 @@ A few weeks ago, my friend said something that stopped me in my tracks:
 > I know we’ll do it all the time   
 > just as soon as we get started
 
-from “dirty brunette” in” *It’s A Fuck Songbook*, author unknown 
+from “dirty brunette” in *It’s A Fuck Songbook*, author unknown 
 
 ~
 
@@ -78,3 +97,11 @@ from “Very Late, but Not Too Late,” by James Tate
 so ends “Witch and the Devil,” by Rebecca Tamás
 
 ~
+
+> I don't contain multitudes   
+> I can barely contain anything   
+> Can't contain my love   
+> Can't contain, but why would I want to?   
+> Why would I want to?   
+
+so begins “XXX” by Bill Callahan and Noah Cyrus

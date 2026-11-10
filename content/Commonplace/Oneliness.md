@@ -1,6 +1,6 @@
 ---
 publish: "true"
-modified: 2026-10-25
+modified: 2026-11-08
 aliases:
   - loneliness
 ---
@@ -36,6 +36,15 @@ Not just for me, but for all of us.
 
 
 Nature And Organisation, “A Dozen Winters of Loneliness”
+
+~
+
+> Whosoever is delighted with solitude    
+> Is either a wild beast, a wild beast    
+> A wild beast, or a god    
+> Bacon said that
+
+Bill Callahan, “West Texas,” referencing Francis Bacon’s essay “Of Friendship”
 
 ~
 
