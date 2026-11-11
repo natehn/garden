@@ -3,7 +3,7 @@ publish: "true"
 modified: 2023-11-27
 comments: "true"
 ---
-Before getting into [[packing and preparation]], you first need to decide where to go! And when.
+Before getting into [[Packing and preparation]], you first need to decide where to go! And when.
 
 ### Timing and Destination
 
@@ -41,4 +41,4 @@ Staying close to the city center typically provides more flexibility (in terms o
 
 ### Travel Methods
 
-Planes are typically the easiest, but I recommend trains ([US](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf)/[Canada](https://www.viarail.ca/en/explore-our-destinations/trains)), buses (Flixbus or Greyhound), and boats if you can swing it. Explore your options using [Rome2Rio](https://www.rome2rio.com/) and Google Maps - changing up your travel method [can be fun](https://xkcd.com/2603/). And keep in mind that using a train or bus rather than a boat lowers your impact on the planet - there are many [[modes of travel]] to choose from, not just planes!
+Planes are typically the easiest, but I recommend trains ([US](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf)/[Canada](https://www.viarail.ca/en/explore-our-destinations/trains)), buses (Flixbus or Greyhound), and boats if you can swing it. Explore your options using [Rome2Rio](https://www.rome2rio.com/) and Google Maps - changing up your travel method [can be fun](https://xkcd.com/2603/). And keep in mind that using a train or bus rather than a boat lowers your impact on the planet - there are many [[Modes of travel]] to choose from, not just planes!

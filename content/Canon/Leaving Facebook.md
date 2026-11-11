@@ -2,7 +2,11 @@
 publish: "true"
 modified: 2020-11-09
 comments: "true"
+tags:
+  - social-media
 ---
+*For a poetic reflection two years later, read [[All Your Attentions]].*
+
 ## Why
 
 Although there have been plenty of fun moments on the Facebook platform, and meaningful, valuable interactions, the truth is that I've spent most of my time scrolling, searching, looking for something that was never there. When I look back, my memory of Facebook is primarily connected with a deep social anxiety. The attention-grabbing notifications. The rollercoaster of self-worth. Every minute without a "like" was a failure. Every comment was a triumph. And even as I matured, those core feelings have never really left me.
