@@ -1,8 +1,14 @@
 ---
 publish: "false"
-modified: 2026-10-20
+modified: 2026-11-11
 aliases:
 ---
+> Work is the salt which preserves mummified souls.
+
+Baudelaire, probably
+
+~
+
 > When I drive cab   
 > &nbsp; &nbsp; &nbsp; I am moved by strange whistles and wear a hat.
 > 

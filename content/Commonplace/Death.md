@@ -9,3 +9,12 @@ tags:
 from “The Walk Home,” by James Tate
 
 ~
+
+> when a pigeon returns to Earth - its Nest   
+> it does so as itself    
+> for it has infinite lives to live    
+> Resilience reincarnate    
+> positive karmic return    
+> a chance to live again   
+
+from *etcetera*, September 2025

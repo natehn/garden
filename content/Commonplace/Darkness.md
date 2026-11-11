@@ -1,6 +1,6 @@
 ---
 publish: "false"
-modified:
+modified: 2026-11-11
 aliases:
 ---
 > Hatcher was the younger of the two, and he said to Johnson, "What do you think he was painting?" Johnson looked bemused and said, "The dark, stupid. What else could he have been painting?" Hatcher, a little hurt, said, "Frogs in the Dark, Lilypads in the Dark, Pond in the Dark. Just as many things exist in the dark as they do in the light." Johnson paused, exasperated. Then Hatcher added, "I'd like to see them. Hell, I might even buy one. Maybe there's more out there than we know.”
@@ -45,3 +45,25 @@ Pile, 2026
 “Lewie, You’re a Goddam Jewel” by Lew Welch, from *Ring of Bone*
 
 ~
+
+
+> **CONTRACT WITH AMERICA**
+> 
+> **Free Trade Sheet**
+> 
+> I TRADE PRIVACY FOR `__________________________________`    
+> I TRADE SILENCE FOR `__________________________________`       
+> I TRADE `__________________________________` FOR SILENCE    
+> I TRADE AUTONOMY FOR `__________________________________`    
+> I TRADE ANONYMITY FOR `__________________________________`     
+> I TRADE `__________________________________` FOR SECURITY    
+> I TRADE SOLIDARITY FOR `__________________________________`    
+> I TRADE `__________________________________` FOR PRESENCE        
+> I TRADE FOCUS FOR `__________________________________`    
+> I TRADE `__________________________________` FOR FREE ASSOCIATION    
+> I TRADE `__________________________________` FOR `__________`    
+> I TRADE `___________` FOR `__________________________________`    
+> 
+> **Press Thumbprint Here: ☐**
+
+from the back of *Cointelshow: A Patriot Act*

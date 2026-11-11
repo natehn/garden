@@ -1,6 +1,6 @@
 ---
 publish: "true"
-modified: 2026-09-22
+modified: 2026-11-11
 ---
 *A running commentary.*
 
@@ -52,3 +52,36 @@ If God is Change, ought we to worship it? Could we, if we wanted to? If I did, I
 ~
 
 I wrote [[How new things glisten|a short rhyming poem about change]] the other day.
+
+~
+
+> Revolution is this: it is the destruction of bad relations, the creation of good relations, the [[Mercy, Transformation, Abolition, Hope#Abolition|abolition]] of the institutions that make this transformation impossible, and the spreading of invitations and tools so many others may create and destroy with us.
+
+from *Horrible Creatures*, by Sever
+
+~
+
+> WE PUT OUR BODIES    
+> ON THE STREETS    
+> OUR BODIES IN THE TREES    
+> OUR BODIES AGAINST   
+> THE FENCES OF A CHEMICAL PLANT    
+> OUR BODIES INSIDE BANKS      
+> OUR BODIES IN THE FOREST       
+> OUR BODIES AGAINST THE PAVEMENT      
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WE HARMONIZE     
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WE DISSONATE     
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WE BECOME ONE SONIC BODY      
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WE SPREAD      
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WE VANISH     
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WE REAPPEAR      
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; IN CRESCENDO THROUGH      
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TUNNELS    
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CAVES, THEATERS, JAIL CELLS     
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WE BECOME EVERYBODY     
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AND ONE WITH THE BUZZING     
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; OF THE HONEYBEES
+
+Francisca Benítez
+
+~

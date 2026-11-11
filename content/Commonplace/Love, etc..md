@@ -105,3 +105,38 @@ so ends “Witch and the Devil,” by Rebecca Tamás
 > Why would I want to?   
 
 so begins “XXX” by Bill Callahan and Noah Cyrus
+
+~
+
+> Love is an emergency    
+> that slips like a deer    
+> from the wound of Christ    
+> to land on the water    
+> without bitterness    
+> in a glister of accident    
+> and won’t think twice    
+> about climbing that tiny staircase again    
+> in ice    
+> to board a plane    
+> again to fly    
+> back into the kiss    
+> of the same disaster        
+> 
+> no recompense    
+> no flotation device        
+> 
+> the kind of suicide mission    
+> where you’re not even free    
+> after you’ve died    
+> 
+> like how    
+> 
+> when you hang yourself    
+> in prison    
+> they cuff you    
+> before they cut you    
+> down.    
+
+from [“Kindly”](https://ashley-capps.com/wp-content/uploads/2023/01/kindly.pdf) by Ashley Capps
+
+~

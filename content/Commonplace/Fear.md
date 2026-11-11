@@ -3,6 +3,12 @@ publish: "false"
 modified: 2026-10-20
 aliases:
 ---
+> Fear is the mind-killer.
+
+from *Dune*, and quoted in a [“Statement from 12 of the 61 RICO Co-Defendants”](https://theanarchistlibrary.org/library/various-authors-anarchism-must-not-be-criminalized)
+
+~
+
 > And Birdy Tebbits, manager of the Cincinnati Redlegs, said:   
 > 
 > &nbsp; &nbsp; &nbsp; Fear of a bat   

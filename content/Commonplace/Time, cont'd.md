@@ -1,6 +1,6 @@
 ---
 publish: "false"
-modified: 1016-10-25
+modified: 1016-11-11
 aliases:
 tags:
 ---
@@ -33,3 +33,12 @@ tags:
 
 ~
 
+> When I was a kid, on any car ride, my mom would measure time in Sesame Street segments.
+> 
+> How long until we get there?    
+> “One Sesame Street episode.”
+> 
+> How far is the store?    
+> “It’s one and a half Elmo’s worlds.”
+
+from *Teleportation* by Sana Masad
