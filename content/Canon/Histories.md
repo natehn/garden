@@ -111,6 +111,6 @@ Actions speak louder than words. I am on this journey, and would love for you to
 
 The [Native-Land](https://native-land.ca/) website is also a great place to start when researching the original inhabitants of the land under your feet.
 
-Change begins with acknowledgment, but it does not stop there. We must stand alongside Native and Black activists and support their movements. We must offer our time, skills, and [resources](https://mannahattafund.org/) to the [Native](https://aich.org/) and [Black](https://actionnetwork.org/fundraising/louisville-community-bail-fund/) organizations in our communities. And we must always continue to learn.
+[[Change]] begins with acknowledgment, but it does not stop there. We must stand alongside Native and Black activists and support their movements. We must offer our time, skills, and [resources](https://mannahattafund.org/) to the [Native](https://aich.org/) and [Black](https://actionnetwork.org/fundraising/louisville-community-bail-fund/) organizations in our communities. And we must always continue to learn.
 
 If you aren't sure where to start, start with money. Pay a [land tax](https://resourcegeneration.org/indigenous-land-tax-one-way-that-rg-strives-to-create-policies-that-reflect-our-values/)! Give land back - to both Black and Native people. Reparations are not the only answer, but they are a fine place to begin.

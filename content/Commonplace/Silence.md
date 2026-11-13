@@ -117,7 +117,7 @@ An incomplete list of musics engaging with silence:
 
 ~
 
-Someday I will give a talk about silence where, right at the very start, I wait an uncomfortable amount of time, smiling at the crowd and keeping anyone from speaking, before beginning.
+Someday I will give a talk about silence where, right at the very start, I wait an uncomfortable amount of time, smiling at the crowd and keeping anyone from speaking, before [[Beginnings|beginning]].
 
 Then I would read a poem.
 

@@ -21,7 +21,7 @@ And the tenth of Diane Di Prima's _Revolutionary Letters_ reads:
 
 > These are transitional years and the dues  
 > will be heavy.  
-> Change is quick but revolution  
+> [[Change]] is quick but revolution  
 > will take a while.  
 > America has not even begun as yet.  
 > This continent is seed.

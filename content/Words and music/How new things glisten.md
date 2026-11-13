@@ -5,7 +5,7 @@ aliases:
 tags:
   - poems
 ---
-She wrote that everything changes    
+She wrote that everything [[Change|changes]]    
 Her mantra tattooed on my wrist    
 That to let go is not so dangerous    
 Compared to counting what’s missed

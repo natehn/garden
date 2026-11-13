@@ -4,7 +4,7 @@ modified: 2026-11-11
 ---
 *A running commentary.*
 
-A few years ago, I got a tattoo on my left wrist that reads *ATYT*.[^wwjd] It stands for “All that you touch,” a quotation from *The Parable of the Sower* by Octavia Butler, in full:
+A few years ago, I got a tattoo on [[Left-handedness|my left wrist]] that reads *ATYT*.[^wwjd] It stands for “All that you touch,” a quotation from *The Parable of the Sower* by Octavia Butler, in full:
 
 > All that you touch   
 > You change   

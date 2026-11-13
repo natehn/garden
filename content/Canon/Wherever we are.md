@@ -30,7 +30,7 @@ comments: "true"
 > 
 > Rainer Maria Rilke, "[Let This Darkness Be a Bell Tower](https://youtu.be/9waa9Q-RZxQ?t=6)," _Sonnets to Orpheus II, 29_ 
 
-Twenty-twenty-one was a dynamic year for me. New job, new apartment, new life. There was a mix of [fortune and misfortune](https://vimeo.com/100449835). Everything was in flux. 
+Twenty-twenty-one was a dynamic year for me. New job, new apartment, new life. There was a mix of [fortune and misfortune](https://vimeo.com/100449835). [[Sunlight, through the window, making rainbows on the wall|Everything was in flux.]] 
 
 So in early September, I packed away my life and set off on a trip of indefinite length.[^trip] I made no promises that I would return to New York - or anywhere, for that matter. My only promise was to myself: to let go of the past and step forward into a new phase of life.
 
@@ -44,7 +44,7 @@ A few days after I set off, I came upon [a newsletter](https://mailchi.mp/8a018f
 
 It just so happened that I had been thinking about change a great deal. I wrote her back:
 
-> You don't know me! And that's okay. But I really identify with what you are talking about - for me, the feeling is that change is in the air.
+> You don't know me! And that's okay. But I really identify with what you are talking about - for me, the feeling is that [[Change|change]] is in the air.
 > 
 > In my case, change came to me and flipped everything upside down [...] but since then, I've been trying to embrace it. I gave up my lease, went skydiving, learned to sail, changed (virtual) jobs, and I've recently embarked on a US cross-country trip of indefinite length.
 > 

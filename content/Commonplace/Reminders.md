@@ -15,6 +15,6 @@ Embrace things that give you energy
 
 Know you have blind spots and bias, even though you can't see them
 
-Accept that things change
+Accept that things [[Change|change]]
 
 Remember you can always make a difference to someone else's day

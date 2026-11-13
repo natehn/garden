@@ -60,7 +60,7 @@ from [“On Silence”](https://circulodepoesia.com/2021/05/poesia-norteamerican
 > For death (those are the heaviest songs and they   
 > Have to be pried from the earth with shovels of grief)   
 > Now all we hear are falling-in-love songs and   
-> Falling apart after falling in love songs.   
+> Falling apart after [[Love, etc.|falling in love]] songs.   
 
 from [“Singing Everything”](https://inwardboundpoetry.blogspot.com/2020/09/1051-singing-everything-joy-harjo.html) by Joy Harjo
 

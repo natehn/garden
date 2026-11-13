@@ -2,7 +2,7 @@
 publish: "true"
 modified: 2026-11-08
 ---
-*A list.*
+*A [[Lists|list]].*
 
 - kaleidoscopes
 - little vintage bells

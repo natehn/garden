@@ -71,7 +71,7 @@ He is preoccupied, in particular, with the question of preservation?
 
 > The world, [he] knew, was indifferent to the necessity of preservation. Of histories, of stories layered with meaning and import. It cared nothing for what was forgotten, for memory and knowledge had never been able to halt the endless repetition of wilful stupidity that so bound peoples and civilizations.
 
-In the main novels, the remnants of the past come back, sometimes at pivotal moments. Both a monkey-like precurser to humans and a nanderthal-like race appear from the ashes to make an impact on the world during a time of dramatic change. They are sometimes like (fallible Greek/Roman) gods,[^gods] sometimes like zombies, and other times, just like us.
+In the main novels, the remnants of the past come back, sometimes at pivotal moments. Both a monkey-like precurser to humans and a nanderthal-like race appear from the ashes to make an impact on the world during a time of dramatic [[Change|change]]. They are sometimes like (fallible Greek/Roman) gods,[^gods] sometimes like zombies, and other times, just like us.
 
 [^gods]: The gods in this are fallible, much like the Greek or Roman ones of old. Actually, it strikes me that the epic poems of that period were likely a tremendous influence on Erikson. Every chapter of the series begins with a poem or historical excerpt, and many of them come from a bard and composer of epics reminiscent of *The Iliad* or *The Odyssey*.
 
@@ -117,7 +117,7 @@ For better or for worse, the *Malazan* books are not where to go for solutions t
 
 In the series, the great majority of characters are the soldiers (or former soldiers) of an empire spreading across the world, bringing peace, capitalism, and all of the messy business that comes with it. 
 
-By the time we join the story, a lot of the conquering is done, and they are beginning to face a series of challenges to the world that make even the gods tremble, and for which the great skill of these warriors is required, naturally, to save humanity and/or the earth.
+By the time we join the story, a lot of the conquering is done, and they are [[Beginnings|beginning]] to face a series of challenges to the world that make even the gods tremble, and for which the great skill of these warriors is required, naturally, to save humanity and/or the earth.
 
 That sounds very epic and all, but it isn't really what the books are about. 
 
@@ -199,7 +199,7 @@ If you know me, you know how tantalizing that is. Changing the world - fixing th
 
 ## Inspiration
 
-I hadn't written anything on this blog since May of last year. I have a list of excuses: a breakup, this unending pandemic, moving three times, and going on a five-month trek across the US. But the real reason was that I've been feeling like I have nothing to say. The guilt crept in, too, and froze me in place. I lost my flow. 
+I hadn't written anything on this blog since May of last year. I have a [[Lists|list]] of excuses: a breakup, this unending pandemic, moving three times, and going on a five-month trek across the US. But the real reason was that I've been feeling like I have nothing to say. The guilt crept in, too, and froze me in place. I lost my flow. 
 
 He offers some words of wisdom to those, like me, who struggle with their own writing practice:
 

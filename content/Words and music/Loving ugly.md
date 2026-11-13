@@ -22,7 +22,7 @@ Some - the brave ones - just give up.
 
 The only way forward is to love ugly. Not because things are truly *ugly*, but out of a recognition that our taste has been trained. Trained in schools after we recited the National Anthem, hands on our hearts. Trained in dark classrooms, modernist paintings putting us to sleep. Trained through competition, and expectations, and all our little games.
 
-Loving ugly is not hating beauty. Loving ugly is an openness to the new, to the strange and alien. To what we fear, and to what we secretly love. 
+Loving ugly is not hating beauty. Loving ugly is an openness to the new, to the strange and alien. To what we fear, and to what we secretly [[Love, etc.|love]]. 
 
 What "ugly" looks like depends on where you are. In a college radio station, it's my friend Cam admitting how much he likes Drake. In a New York gallery, it's admiring a discarded draft. At home, it is (actually) loving a niece's latest crayon piece.
 
@@ -49,7 +49,7 @@ The kindness of a friend.
 In a liberated world, art cannot be "bad," only different.      
 Liking and not-liking have no point.      
 Pieces, when recognized as such, are not "improved,"      
-but only touched, and changed.      
+but only touched, and [[Change|changed]].      
 And then they are different,      
 in a way that is pleasing for some,      
 and less pleasing for others. 

@@ -48,7 +48,7 @@ Are we certain there is but one path?
 
 ![[time - big cycles.png|A large white circle at the center. To its right and left, a large half-dotted circle. Another layer outward, a pair of fully-dotted circles that are stretched infinitely to a point or line at their far edges.]]
 
-And are we *certain* there is a beginning, and an end?
+And are we *certain* there is a [[Beginnings|beginning]], and an end?
 
 ![[time - many cycles.png|Two drawings: the first is of several adjacent circles and ovals, each of different length but with the same height. The second drawing, below, is of several medium-sized circles, with the outer ones being incomplete.]]
 
