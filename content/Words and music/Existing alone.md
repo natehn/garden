@@ -10,7 +10,7 @@ Friend,
   
 I ran into this quote the other day:  
   
-> Music is not meant to be something which exists alone.”     
+> Music is not meant to be something which exists [[Oneliness|alone]].”     
 > ~ Satoshi Ashikawa  
   
 I found it in this Pitchfork review I was reading. Ashikawa also described environmental music as “music which by overlapping and shifting changes the character and the meaning of space, things, and people.”  

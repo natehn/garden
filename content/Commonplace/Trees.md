@@ -159,3 +159,15 @@ Devine, [June 2022](https://merveilles.town/@neauoire/108592538079045876)
 from Werner Herzog’s [“Minnesota Declaration”](https://www.youtube.com/watch?v=GkJiasC3cRI)
 
 ~
+
+████:
+
+> It is pretty wild to me how much higher the branch is off the ground now that the leaves are gone. My guess is like 2-3 feet. I’ve never really appreciated how the branches do have to contend with the weight of their leaves.
+
+█████:
+
+> They'll be contending with the weight of snow soon enough.
+
+(a signal chat)
+
+~

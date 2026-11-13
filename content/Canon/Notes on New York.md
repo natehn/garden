@@ -1,6 +1,6 @@
 ---
 publish: "true"
-modified: 2026-10-22
+modified: 2026-11-13
 aliases:
 ---
 ![[wsp.png]]
@@ -10,6 +10,10 @@ aliases:
 Sometimes I swore I smelled pierogis on the wind, as I passed by the sing-song voices of the ladies outside “The Spot,” intermixed with the honking and groaning of traffic on Fresh Pond Road. I was perhaps not calm. But, I was home. 
 
 Fresh Pond Road, the main thoroughfare of that little corner of Queens, is home to Poles, Ukrainians, and Albanians, along with the Latine community being slowly pushed out from neighboring Bushwick. I rarely understood the singsong voices mingling around me. But it hardly mattered - spring had sprung, and everyone was smiling.
+
+![[subway hands.png]]
+
+*illustration by [Agnes Lee](https://www.nytimes.com/quiz/2026/11/12/nyregion/metropolitan-diary-illustration-poll.html?smid=nytcore-ios-share)*
 
 As I hopped down to the street, and ducked under a great long cement-smoothing tool now reconstituting the adjacent sidewalk, I wondered: what the fuck was I doing there? I’d been there for seven years, and for seven years, I had been planning to leave. But something kept me there - something alive, something special, something intense, something real. It was only when it was done with me, shaping me, pushing me, that I could finally let go.
 

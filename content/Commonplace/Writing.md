@@ -40,7 +40,7 @@ modified: 2026-10-26
 > out of the silence, like prayers   
 > prayed back to the one who prays,   
 > make a poem that does not disturb   
-> the [[silence]] from which it came.
+> the silence from which it came.
 
 [“How To Be a Poet”](https://www.poetryfoundation.org/poetrymagazine/poems/41087/how-to-be-a-poet) by Wendell Berry 
 

@@ -1,6 +1,6 @@
 ---
 publish: "false"
-modified:
+modified: "{{date}}"
 aliases:
 tags:
 ---
