@@ -1,5 +1,5 @@
 ---
-publish: "false"
+publish: "true"
 modified: 2026-11-11
 aliases:
 ---
@@ -38,3 +38,6 @@ Baudelaire, probably
 
 ~
 
+> Let’s face it—WORK SUCKS! Work (I like Bob Black’s definition— “forced labor, compulsory production”) is nothing more than selling yourself out of economic necessity, It is one of our society’s most sophisticated forms of exploitation—how many people do you know who can envision a society devoid of work? Work (in the modern world) means bosses, bureaucracy, hierarchy. Work in advanced industrial society means discrimination, surveillance, discipline, rotework, quotas, and timeclocks. Work kills our freedom and consumes our time (even “free time” is mostly recovering from or preparing for work). Work is hazerdous to our health and our psyches. Work is yet another societal role that conditions us into competitive, hierarchical modes of thinking and acting. Work is school, church, and prison with a different name.
+
+~

@@ -199,7 +199,7 @@ If you know me, you know how tantalizing that is. Changing the world - fixing th
 
 ## Inspiration
 
-I hadn't written anything on this blog since May of last year. I have a [[Lists|list]] of excuses: a breakup, this unending pandemic, moving three times, and going on a five-month trek across the US. But the real reason was that I've been feeling like I have nothing to say. The guilt crept in, too, and froze me in place. I lost my flow. 
+I hadn't written anything on this blog since May of last year. I have a [[Lists|list]] of excuses: a breakup, this unending pandemic, moving three times, and going on [[Wherever We Are|a five-month trek across the US]]. But the real reason was that I've been feeling like I have nothing to say. The guilt crept in, too, and froze me in place. I lost my flow. 
 
 He offers some words of wisdom to those, like me, who struggle with their own writing practice:
 

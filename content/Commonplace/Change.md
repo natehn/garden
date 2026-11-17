@@ -1,6 +1,6 @@
 ---
 publish: "true"
-modified: 2026-11-11
+modified: 2026-11-15
 ---
 *A running commentary.*
 
@@ -85,3 +85,10 @@ from *Horrible Creatures*, by Sever
 Francisca Benítez
 
 ~
+
+> … get your walking stick out, the path is long, your mind your own, but your body belongs, to the earth, it’s just a tool, but let’s get back to school, you starve for freedom, “I just want to be free”, but can’t you see, freedom is a concept, it doesn’t exist, the world is chaos, you just resist, there’s nothing holding you back, freedom is a dream, cut your own slack …
+
+from “Chaos and My Metaschizophrenia,” by MC Chaos
+
+~
+

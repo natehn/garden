@@ -67,12 +67,16 @@ from [“Singing Everything”](https://inwardboundpoetry.blogspot.com/2020/09/1
 ~
 
 > Whenever I have a day off, I write a new poem.    
-> Does this mean you shouldn’t [[work]], or that you    
+> Does this mean you shouldn’t [[Work]], or that you    
 > write best on your day off?   
 > 
 > For example, this is the poem I wrote today.
 
 from “Circle Poems” by Lew Welch, in *Ring of Bone*
+
+~
+
+![[iron-post-haiku-3.png]]
 
 ~
 

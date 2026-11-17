@@ -10,3 +10,10 @@ aliases:
 “Aesthetics” by Lew Welch, from *Ring of Bone*
 
 ~
+
+![[iron-post-haiku-2.png]]
+
+My haiku from the second volume of *The Iron Post*.
+
+~
+

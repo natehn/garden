@@ -20,3 +20,6 @@ modified: 2026-11-08
 - cracking open a window
 - meeting neighbors
 - paper chains
+
+
+![[iron-post-haiku-1.png]]

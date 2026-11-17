@@ -140,3 +140,13 @@ so begins “XXX” by Bill Callahan and Noah Cyrus
 from [“Kindly”](https://ashley-capps.com/wp-content/uploads/2023/01/kindly.pdf) by Ashley Capps
 
 ~
+
+> am I loving you like a body, like a mind, and as a spirit   
+> am I loving you like someone with no economy, no government   
+> is this a capitalist’s lust because    
+> I want to want you like a pollen wants to ride on an insect’s leg    
+> I want to love you like a painter and the sky   
+> like a cloud joins another cloud    
+> and then together they become a tree
+
+Chloé Allyn, from “poem for justin, late january,” in *Stone Poets* #4

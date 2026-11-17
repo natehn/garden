@@ -256,6 +256,8 @@ Naptown, Crossroads of America, etc.
 - CD Central, Sqecial Media, and other spots nearby
 - Institute 193 typically has a good exhibition
 
+![[iron-post-haiku-1.png]]
+
 ### Lisbon, Portugal
 
 - pasteis de nata
