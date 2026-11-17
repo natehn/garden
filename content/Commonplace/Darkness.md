@@ -1,5 +1,5 @@
 ---
-publish: "true"
+publish: "false"
 modified: 2026-11-15
 aliases:
 ---
@@ -155,4 +155,4 @@ from the back of *Cointelshow: A Patriot Act*
 
 > Today is the [  ]th day of ICE’s occupation. I stay inside & count the seconds. I bring my green card from room to room. I hug the air. I float through walls. I open my mouth and say nothing to no one. I’m no longer undocumented by I am still undocumented. I tape up bed sheets to cover he curtainless windows. A little fear grows at my feet. I water it daily. I’m tired of this landscape and its light. Monochrome view America. Black branches & gray sky America. I’m tired of my body. All the birds have scattered to a different sky. I will try to whistle them home.
 
-José Felipe Ozuna, in *Stone Poets* #4
+José Felipe Ozuna, in *Stone Poets* #4 
