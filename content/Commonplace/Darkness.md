@@ -1,5 +1,5 @@
 ---
-publish: "false"
+publish: "true"
 modified: 2026-11-15
 aliases:
 ---
