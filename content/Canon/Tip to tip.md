@@ -4,6 +4,8 @@ modified: 2026-11-17
 aliases:
 tags:
 ---
+*In January, I said goodbye to [[Notes on New York|New York]]. Below is the itinerary from our walk from the northernmost tip of Manhattan, all the way to the south, visiting personal and collective landmarks along the way, with many a friend by my side. We opened and closed the day with a few poems read aloud.*
+
 ![[tip-to-tip-1.png]]
 ![[tip-to-tip-2.png]]
 ![[tip-to-tip-3.png]]
