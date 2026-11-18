@@ -1,6 +1,6 @@
 ---
-publish: "false"
-modified: "2026-11-15"
+publish: "true"
+modified: 2026-11-15
 aliases:
 tags:
 ---
