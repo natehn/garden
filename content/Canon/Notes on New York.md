@@ -103,6 +103,7 @@ It would delight me if you chose to visit or live in my favorite neighborhood: R
 - Low Cinema
 - Nowadays
 - Valentino’s
+- Super Pollo
 - Ridgewood Reservoir
 - Grace Land
 - Cozy Corner
@@ -127,6 +128,8 @@ It would delight me if you chose to visit or live in my favorite neighborhood: R
 - Seneca Food Garden
 
 I recommend avoiding any business that [has investment from Kermit Westergaard](https://www.reddit.com/r/ridgewood/comments/15ssfra/list_of_kermit_westergard_linked_businesses_in/), the neighborhood’s premier gentrifier, the most notable one being Rolo’s.
+
+For a good look at the Empire State Building, stop in the middle of Cypress Ave and look west.
 
 ![[rooftop performance.jpg]]
 

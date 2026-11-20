@@ -21,5 +21,17 @@ modified: 2026-11-08
 - meeting neighbors
 - paper chains
 
+~
 
 ![[iron-post-haiku-1.png]]
+
+~
+
+Unwanted   
+green.   
+Wow!
+
+*Beauty in three words.*
+
+~
+
