@@ -14,7 +14,7 @@ Hi!
 > something I need   
 > to show you.
 
-*from “Closer” by Noah Anthony Mezzacappa, in Count the Dark*
+*from “Closer” by Noah Anthony Mezzacappa, in* Count the Dark
 
 ~
 
