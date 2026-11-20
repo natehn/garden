@@ -1,6 +1,6 @@
 ---
 publish: "true"
-modified: 2026-11-03
+modified: 2026-11-20
 ---
 > The songs of the guardians of silence are the most powerful—    
 > They are the most rare.   
@@ -41,6 +41,10 @@ from [“Singing Everything”](https://inwardboundpoetry.blogspot.com/2020/09/1
 > of silence.
 
 [“On the Fifth Day”](https://www.poetryfoundation.org/poems/161941/on-the-fifth-day) by Jane Hirshfield
+
+~
+
+![[you-are-listening-to-silence.png]]
 
 ~
 

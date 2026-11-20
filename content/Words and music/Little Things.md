@@ -3,7 +3,7 @@ publish: "true"
 modified: 2024-12-15
 comments: "true"
 ---
-*A brief collection of photos from Ridgewood, my old New York neighborhood, edited using the techniques described in [[Dithering like riso]].*
+*A brief collection of photos from [[Notes on New York#Ridgewood, my favorite neighborhood|Ridgewood]], my old New York neighborhood, edited using the techniques described in [[Dithering like riso]].*
 
 
 ![[ridgewood-sign.jpg|A nice sign on the inside of an apartment door window, reading Ridgewood.]]

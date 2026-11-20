@@ -1,17 +1,20 @@
 ---
 title: Welcome to 𝔉𝔯𝔞𝔤𝔪𝔢𝔫𝔱𝔰
 publish: "true"
-comments: "false"
 modified: 2026-11-15
 ---
-> Look. I know
-> we don’t know
-> each other
-> but there’s
-> something I need
+Hi!
+
+~
+
+> Look. I know   
+> we don’t know   
+> each other   
+> but there’s   
+> something I need   
 > to show you.
 
-“Closer” by Noah Anthony Mezzacappa, in *Count the Dark*
+*from “Closer” by Noah Anthony Mezzacappa, in Count the Dark*
 
 ~
 

@@ -1,6 +1,6 @@
 ---
-publish: "false"
-modified: 1016-11-11
+publish: "true"
+modified: 1016-11-20
 aliases:
 tags:
 ---
@@ -30,6 +30,10 @@ tags:
 > Isn’t that beautiful.
 
 “The world keeps turning,” zine, author unknown
+
+~
+
+![[time-doesnt-exist-clocks-exist.png]]
 
 ~
 
