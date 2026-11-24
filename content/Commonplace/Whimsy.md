@@ -1,6 +1,6 @@
 ---
 publish: "true"
-modified: 2026-11-08
+modified: 2026-11-20
 ---
 *A [[Lists|list]].*
 
@@ -20,6 +20,7 @@ modified: 2026-11-08
 - cracking open a window
 - meeting neighbors
 - paper chains
+- dancing on a bridge for cars driving on a freeway
 
 ~
 

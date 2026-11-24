@@ -1,6 +1,6 @@
 ---
 publish: "true"
-modified: 2026-11-09
+modified: 2026-11-22
 aliases:
 tags:
 ---
@@ -150,3 +150,12 @@ from [“Kindly”](https://ashley-capps.com/wp-content/uploads/2023/01/kindly.p
 > and then together they become a tree
 
 Chloé Allyn, from “poem for justin, late january,” in *Stone Poets* #4
+
+~
+
+> And I've told you I loved you in every which way    
+> But I just can't understand   
+> How the sentence never scans quite right   
+> But I've promised myself that it can
+
+from “Worried Age” by Westside Cowboy

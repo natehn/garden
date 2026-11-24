@@ -18,3 +18,6 @@ from “The Walk Home,” by James Tate
 > a chance to live again   
 
 from *etcetera*, September 2025
+
+~
+

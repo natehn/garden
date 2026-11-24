@@ -3,6 +3,14 @@ publish: "false"
 modified: 2026-11-11
 aliases:
 ---
+![](https://www.youtube.com/watch?v=ZQ3m5DJPI8A)
+
+> Shall we go on sinning so that grace may increase?
+
+The Soft Pink Truth, paraphrasing Romans 6
+
+~
+
 > Seeking Perfect Total Enlightenment   
 > is looking for a flashlight   
 > when all you need the flashlight for   
