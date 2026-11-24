@@ -9,7 +9,8 @@ tags:
 ~
 
 > Writing is performed by movements: it is a dance of the pen.   
-> - Alfred Fairbank, *Handwriting Manual*
+
+Alfred Fairbank, in *Handwriting Manual*
 
 ~
 
