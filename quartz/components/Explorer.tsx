@@ -46,8 +46,26 @@ const defaultOptions: Options = {
       return -1
     }
   },
-  filterFn: (node) => node.slugSegment !== "tags",
-  order: ["filter", "map", "sort"],
+  filterFn: (node) => {
+    if (node.slugSegment === "tags") return false
+    if (node.data?.tags?.includes("hidden")) return false
+    if (node.isFolder) {
+      const stack = [...node.children]
+      let hasVisible = false
+      while (stack.length > 0) {
+        const child = stack.pop()
+        if (!child) continue
+        if (child.isFolder) {
+          stack.push(...child.children)
+        } else if (!child.data?.tags?.includes("hidden")) {
+          hasVisible = true
+          break
+        }
+      }
+      if (!hasVisible) return false
+    }
+  return true
+  },
 }
 
 export type FolderState = {

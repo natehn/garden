@@ -59,7 +59,9 @@ type Props = {
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
   const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
-  let list = allFiles.sort(sorter)
+  let list = allFiles
+    .filter((f) => !f.frontmatter?.tags?.includes("hidden"))
+    .sort(sorter)
   if (limit) {
     list = list.slice(0, limit)
   }
@@ -68,7 +70,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     <ul class="section-ul">
       {list.map((page) => {
         const title = page.frontmatter?.title
-        const tags = page.frontmatter?.tags ?? []
+        const tags = (page.frontmatter?.tags ?? []).filter((t) => t !== "hidden")
 
         return (
           <li class="section-li">

@@ -1,0 +1,8 @@
+---
+publish: "true"
+modified: 2026-11-24
+aliases:
+tags:
+  - hidden
+---
+You have found an 🥚. Turn Javascript on to find additional 🥚s. Please report all other 🥚 discoveries to the administrator.

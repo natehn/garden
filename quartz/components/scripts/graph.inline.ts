@@ -99,6 +99,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const tags: SimpleSlug[] = []
   const validLinks = new Set(data.keys())
 
+  // Hide pages tagged "hidden" from the global graph only
+  if (depth === -1) {
+    for (const [hideSlug, details] of [...data.entries()]) {
+      if (details.tags?.includes("hidden")) {
+        data.delete(hideSlug)
+        validLinks.delete(hideSlug)
+      }
+    }
+  }
+
   const tweens = new Map<string, TweenNode>()
   for (const [source, details] of data.entries()) {
     const outgoing = details.links ?? []

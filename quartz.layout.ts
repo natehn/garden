@@ -43,7 +43,14 @@ export const defaultContentPageLayout: PageLayout = {
       }),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        removeTags: ["hidden"],
+      },
+      globalGraph: {
+        removeTags: ["hidden"],
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

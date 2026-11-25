@@ -1,8 +1,9 @@
 ---
 publish: "true"
-modified: 1959-11-10
+modified: 2026-11-10
 aliases:
 tags:
+  - hidden
 ---
 ![[nov-10-circulary-system.png]]
 
