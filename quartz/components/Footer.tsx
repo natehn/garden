@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import style from "./styles/footer.scss"
 import { version } from "../../package.json"
 import { i18n } from "../i18n"
-import { specialDays, randomLinks } from "../../egg-links"
+import { specialDays, randomLinks, arenaEndpoint } from "../../egg-links"
 
 interface Options {
   links: Record<string, string>
@@ -46,38 +46,56 @@ export default ((opts?: Options) => {
 
   Footer.css = style
 
-    Footer.afterDOMLoaded = `
-    document.addEventListener("nav", () => {
-      const specialDays = ${JSON.stringify(specialDays)}
-      const randomLinks = ${JSON.stringify(randomLinks)}
+      Footer.afterDOMLoaded = `
+document.addEventListener("nav", async () => {
+  const specialDays = ${JSON.stringify(specialDays)}
+  const fallbackLinks = ${JSON.stringify(randomLinks)}
+  const endpoint = ${JSON.stringify(arenaEndpoint)}
 
-      const egg = document.getElementById("egg-link")
-      if (!egg) return
-      const now = new Date()
-      const key =
-        String(now.getMonth() + 1).padStart(2, "0") + "-" + String(now.getDate()).padStart(2, "0")
-      const url = specialDays[key] ?? randomLinks[Math.floor(Math.random() * randomLinks.length)]
-      if (!url) return
+  const egg = document.getElementById("egg-link")
+  if (!egg) return
 
-      const target = new URL(url, window.location.origin)
-      const isOwnSite =
-        target.origin === window.location.origin ||
-        target.hostname === "raft.wiki" ||
-        target.hostname === "www.raft.wiki"
+  const now = new Date()
+  const key =
+    String(now.getMonth() + 1).padStart(2, "0") + "-" + String(now.getDate()).padStart(2, "0")
 
-      if (isOwnSite) {
-        // Internal: plain path, same tab, so Quartz's smooth page transition is used
-        egg.href = target.pathname + target.search + target.hash
-        egg.removeAttribute("target")
-        egg.removeAttribute("rel")
+  let url = specialDays[key]
+  if (!url) {
+    let links = []
+    try {
+      const cached = sessionStorage.getItem("egg-links")
+      if (cached) {
+        links = JSON.parse(cached)
       } else {
-        // External: full URL, new tab
-        egg.href = url
-        egg.target = "_blank"
-        egg.rel = "noopener noreferrer"
+        const res = await fetch(endpoint)
+        if (res.ok) {
+          const json = await res.json()
+          const items = Array.isArray(json) ? json : (json.data ?? json.contents ?? [])
+          links = items.map((b) => (typeof b === "string" ? b : b?.source?.url)).filter(Boolean)
+          if (links.length) sessionStorage.setItem("egg-links", JSON.stringify(links))
+        }
       }
-    })
-    `
+    } catch {}
+    if (links.length === 0) links = fallbackLinks
+    url = links[Math.floor(Math.random() * links.length)]
+  }
+  if (!url) return
+
+  const target = new URL(url, window.location.origin)
+  const isOwnSite =
+    target.origin === window.location.origin || target.hostname === "fragments.hew.tt"
+
+  if (isOwnSite) {
+    egg.href = target.pathname + target.search + target.hash
+    egg.removeAttribute("target")
+    egg.removeAttribute("rel")
+  } else {
+    egg.href = url
+    egg.target = "_blank"
+    egg.rel = "noopener noreferrer"
+  }
+})
+`
 
   return Footer
 }) satisfies QuartzComponentConstructor

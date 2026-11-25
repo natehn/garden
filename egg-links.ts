@@ -4,9 +4,7 @@ export const specialDays: Record<string, string> = {
   "11-10": "/Hidden/Circulatory-System-Day",
 }
 
-// Every other day, one of these is picked at random
-export const randomLinks: string[] = [
-  "https://random.dog/",
-  "https://d2w9rnfcy7mm78.cloudfront.net/13745687/original_880dd6a3924f7199e9c844d66c494758.png?1635377805?bc=0",
-  "https://poems.verses.xyz/",
-]
+// Every other day, one of these is picked at random, formal of "link",
+export const randomLinks: string[] = []
+
+export const arenaEndpoint = "https://api.are.na/v3/channels/eggs-xo6kglwnkzq/contents?per=100"

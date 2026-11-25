@@ -43,13 +43,12 @@ export const defaultContentPageLayout: PageLayout = {
       }),
   ],
   right: [
-    Component.Graph({
-      localGraph: {
-        removeTags: ["hidden"],
-      },
-      globalGraph: {
-        removeTags: ["hidden"],
-      },
+    Component.ConditionalRender({
+      component: Component.Graph({
+        localGraph: { removeTags: ["hidden"] },
+        globalGraph: { removeTags: ["hidden"] },
+      }),
+      condition: (page) => !page.fileData.frontmatter?.tags?.includes("hidden"),
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
