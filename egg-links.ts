@@ -1,7 +1,7 @@
 // Special days: "MM-DD" -> URL (checked first)
 export const specialDays: Record<string, string> = {
   "04-14": "/Hidden/Avril-14th",
-  "11-24": "/Hidden/Circulatory-System-Day",
+  "11-10": "/Hidden/Circulatory-System-Day",
 }
 
 // Every other day, one of these is picked at random
