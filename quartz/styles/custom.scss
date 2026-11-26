@@ -132,3 +132,54 @@ body::-webkit-scrollbar-thumb {
     margin-bottom: 0.5rem;
   }
 }
+
+// telescopic text (library styles)
+
+:root {
+  --telescope-highlight: var(--highlight);
+  --telescope-highlight-hover: var(--tertiary);
+  --telescope-text-color: var(--darkgray);
+}
+
+#telescope {
+  color: var(--telescope-text-color);
+}
+
+#telescope#telescope blockquote {
+  margin-left: 0;
+  padding-left: 1rem;
+  border-left: 3px solid var(--telescope-text-color);
+  display: block;
+}
+
+#telescope#telescope hr {
+  border: 1px solid var(--telescope-text-color);
+  margin: 1em 0;
+  display: block;
+}
+
+#telescope .details {
+  display: inline;
+  border-radius: 3px;
+  background-color: var(--telescope-highlight);
+  transition: background-color 0.5s ease;
+  cursor: pointer;
+}
+
+#telescope .details.open {
+  background-color: transparent;
+  cursor: initial;
+}
+
+#telescope .details.open > .summary, #telescope .details.close > .expanded {
+  display: none;
+}
+
+#telescope .details.close:hover {
+  background-color: var(--telescope-highlight-hover);
+}
+
+#telescope .details *, #telescope p * {
+  list-style: none;
+  display: inline;
+}

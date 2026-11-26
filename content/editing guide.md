@@ -6,6 +6,7 @@ publish: "false"
 - `![](link)` for embedding videos
 - `![[]]` for photos that are in the files area
 - `index` file in a folder adds text to folder page, and then you need to add a `title` attribute (make sure to set `publish` to `true` or else it messes things up)
+- Add a (case-sensitive) index for each tag desired in the `tags` folder in this vault
 
 ### Easter eggs and hidden pages
 
