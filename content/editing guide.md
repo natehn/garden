@@ -11,3 +11,9 @@ publish: "false"
 
 - Use the `hidden` tag for things that will be eggs
 - Update anniversary easter egg links at `egg-links.ts` in the main `quartz` folder
+### Telescopic text (i.e., “verses” poems)
+
+- Use `[!telescopic]` callout type, no title and put the whole thing in a quote block
+- Indent to make children
+- Only link on the last line, otherwise the highlighting is confused between links and telescoping
+- Add the `telescopic` tag!

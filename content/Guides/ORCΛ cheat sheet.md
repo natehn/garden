@@ -1,11 +1,8 @@
 ---
 publish: "true"
 modified: 2024-06-09
-comments: "true"
 ---
-
-
-A cheat sheet for Hundred Rabbits' [ORCΛ](https://github.com/hundredrabbits/Orca). Learn how to use it [here](https://metasyn.srht.site/learn-orca/).
+A cheat sheet for Hundred Rabbits' [ORCΛ](https://github.com/hundredrabbits/Orca), an ingenius musical live-coding environment. Learn how to use it [here](https://metasyn.srht.site/learn-orca/).
 
 | Basics                                                   |
 | -------------------------------------------------------- |
