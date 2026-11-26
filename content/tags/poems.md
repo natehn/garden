@@ -10,10 +10,10 @@ tags:
 > 	- All poems
 > 		- All the poems
 > 			- All the poems, 
-> 				- All the poems,
+> 				- All the poems
 > 				- fit,
 > 					- fit to
-> 			- printed
+> 			- print?
 > 				- print.
 
 *Special thanks to Jacky Zhao for the work on [telescopic text](https://jackyzha0.github.io/telescopic-text/). Read more and be inspired [here](https://poems.verses.xyz).*
