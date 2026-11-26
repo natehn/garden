@@ -37,7 +37,7 @@ export default ((opts?: Options) => {
               width="11.5"
               height="11.5"
             />
-          </a> | <a href="mailto:nathan@hew.tt" target='_blank' rel="me">✉</a> | <a href="https://store.hew.tt/" target='_blank' rel="me">☕</a> | <a href="https://hew-tt.atabook.org" target='_blank'>✍️</a> | <a id="egg-link" href="/Hidden/Egg">🥚</a> | © {year} Nathan Hewitt (made with <a href="https://quartz.jzhao.xyz" target='_blank'>Quartz</a>) 
+          </a> | <a href="mailto:nathan@hew.tt" target='_blank' rel="me">✉</a> | <a href="https://store.hew.tt/" target='_blank' rel="me">☕</a> | <a href="https://hew-tt.atabook.org" target='_blank'>✍️</a> | <a id="egg-link" href="/Hidden/Egg">🥚</a> | <a id="dice-link" href="/Hidden/RNG">🎲</a> | © {year} Nathan Hewitt (made with <a href="https://quartz.jzhao.xyz" target='_blank'>Quartz</a>) 
         </p> 
         </div>
       </footer>
@@ -94,6 +94,32 @@ document.addEventListener("nav", async () => {
     egg.target = "_blank"
     egg.rel = "noopener noreferrer"
   }
+})
+document.addEventListener("nav", async (e) => {
+  const dice = document.getElementById("dice-link")
+  if (!dice) return
+
+  try {
+    const index =
+      typeof fetchData !== "undefined"
+        ? await fetchData
+        : await (await fetch("/static/contentIndex.json")).json()
+
+    const current = e.detail.url
+    const slugs = Object.entries(index)
+      .filter(([slug, details]) => {
+        if (slug === current) return false
+        if (slug.startsWith("tags/")) return false
+        if (details.tags?.includes("hidden")) return false
+        return true
+      })
+      .map(([slug]) => slug)
+
+    if (slugs.length === 0) return
+    const pick = slugs[Math.floor(Math.random() * slugs.length)]
+    const path = "/" + pick.replace(/(^|\\/)index$/, "$1")
+    dice.href = encodeURI(path)
+  } catch {}
 })
 `
 

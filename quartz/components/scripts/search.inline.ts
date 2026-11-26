@@ -515,8 +515,10 @@ async function fillDocument(data: ContentIndex) {
   let id = 0
   const promises: Array<Promise<unknown>> = []
   for (const [slug, fileData] of Object.entries<ContentDetails>(data)) {
+    const key = id++
+    if (fileData.tags?.includes("hidden")) continue
     promises.push(
-      index.addAsync(id++, {
+      index.addAsync(key, {
         id,
         slug: slug as FullSlug,
         title: fileData.title,
