@@ -33,4 +33,4 @@ Wondering where to start? Here are some current favorites:
 - [[Time]]
 - [[Venetian Coin]]
 
-*And if you enjoy anything you find here, please let me know in my [guestbook](https://hew-tt.atabook.org/).*
+Or take your chances and roll the 🎲 below…

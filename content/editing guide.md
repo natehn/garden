@@ -9,6 +9,5 @@ publish: "false"
 
 ### Easter eggs and hidden pages
 
-- Use the `hidden` tag for things that will be eggs. They will still be searchable…not sure if I want that to change
-	- Put them in the Hidden folder also
-- Update random and anniversary easter egg links at `egg-links.ts` in the main `quartz` folder
+- Use the `hidden` tag for things that will be eggs
+- Update anniversary easter egg links at `egg-links.ts` in the main `quartz` folder
