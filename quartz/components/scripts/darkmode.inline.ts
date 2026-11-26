@@ -60,10 +60,10 @@ document.addEventListener("nav", () => {
     emitThemeChangeEvent(finalTheme)
   }
 
-  // Attach the listener to the button
+  // Attach the listener to the button, and remove it before the next navigation
   const themeButton = document.querySelector(".darkmode") as HTMLButtonElement
   if (themeButton) {
-    themeButton.removeEventListener("click", switchTheme)
     themeButton.addEventListener("click", switchTheme)
+    window.addCleanup(() => themeButton.removeEventListener("click", switchTheme))
   }
 })
